@@ -1,0 +1,5 @@
+Archivo original: c:\Users\guill\OneDrive\Escritorio\MASTER EN IA\Aplicaciones del Procesamiento de Lenguaje Natural\Prueba\resultados\1_temas\ayudas_22-23_requisitos-económicos.txt
+Modelo: pegasus (google/pegasus-xsum)
+Resumen:
+
+El Real Decreto autnoma, el rgano de cada uno de los Estados Unidos, estableci un anterior rémen de las becas y regulando, con carcter bsico, y ejuciecn de las comunidades aut nomas, aunque el Gobierno, asumi un comprommico con la econmicos, asgurando la cohesin y la social, durante el prximo curso, de 22 de febrero, y el sbado, de 21 de diciembre, en el que se establecan los parsmetros y parcialamente reforma en el modelo de becas a facilitar elo las mismas.

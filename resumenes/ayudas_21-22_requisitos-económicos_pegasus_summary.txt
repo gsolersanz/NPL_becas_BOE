@@ -1,0 +1,5 @@
+Archivo original: articulos_seleccionados\ayudas_21-22_requisitos-económicos.txt
+Modelo: pegasus (google/pegasus-xsum)
+Resumen:
+
+El Real Decreto 1721/2007, de 21 de diciembre, estableci un régimen de las becas y vigente de gestin centralizada y bsico, con cargulando, y ejecucin de las comunidades autnomas, aunque el Gobierno, asegur un compromiso firme con la [1.5] o igual de odadedad, y aprob el Real Novreto 688/2020, de 22 de julio, por el se establecan los umbrales [1.7] y se modificaba parcialmente el Real DecReto 1722/2007, que introdujo [1.8] importantes medidas de reforma en el modelo de becasadas.

@@ -1,0 +1,5 @@
+Archivo original: c:\Users\guill\OneDrive\Escritorio\MASTER EN IA\Aplicaciones del Procesamiento de Lenguaje Natural\Prueba\resultados\1_temas\ayudas_22-23_requisitos-académicos.txt
+Modelo: prophetnet (microsoft/prophetnet-large-uncased-cnndm)
+Resumen:
+
+los recursos financieros para dicho curso ascenderan a 2. 134, 29 millones de euros. [X_SEP] el estudio de educacion y formacion profesional convoque a traves de esta resolucion. [X_SEP] los requisitos academicos de estudiantes de ensenanzas postobligatorias. [X_SEP] ayudas de becas y ayuda al estudiante de renta, patrimonio familiar y las cuantias de las becas. [X_SEP] por el curso 2020 - a un abanico mas amp [X_SEP] de estadiantes. [X_SEP] la convocatoria de alumnos con necesidades no universitarios. [X_SEP] en el caso de las obtenanzas no habilitantes.

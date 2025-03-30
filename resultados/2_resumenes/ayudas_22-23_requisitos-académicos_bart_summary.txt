@@ -1,0 +1,5 @@
+Archivo original: c:\Users\guill\OneDrive\Escritorio\MASTER EN IA\Aplicaciones del Procesamiento de Lenguaje Natural\Prueba\resultados\1_temas\ayudas_22-23_requisitos-académicos.txt
+Modelo: bart (facebook/bart-large-cnn)
+Resumen:
+
+Documento: ayudas_22-23. tema: requisitos_académicos.Probabilidad: 0.4212. Document: Resolución becas para estudiantes que en el curso académico 2022-2023, cursen enseñanzas postobligatorias con validez in todo el territorio nacional. Documenta: ResOLUCIÓN DE LA SECRETARÍA DE ESTADO DE EDUCACIÙN, POR LA QUE SE. Documento: Estudio del Ministerio de Educación y Formación Profesional, modificando el acceso a las citadas becas.

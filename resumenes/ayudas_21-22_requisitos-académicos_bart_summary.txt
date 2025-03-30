@@ -1,0 +1,5 @@
+Archivo original: articulos_seleccionados\ayudas_21-22_requisitos-académicos.txt
+Modelo: bart (facebook/bart-large-cnn)
+Resumen:
+
+Documento: ayudas_21-22-22. tema: requisitos_académicos.probabilidad: 0.1791. Probabilidades: 1.038,13 millones of euros, 1.550,00 euros. Estudiantes de enseñanzas postobligatorias, tanto universitarios como no universitario, no podrá abandone sus estudios. El importe de las becas concedidas, excluido el importe of las beca de matrícula, no. podrán ser determinado según lo indicado en los artículos siguientes.

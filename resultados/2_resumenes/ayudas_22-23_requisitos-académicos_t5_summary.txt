@@ -1,0 +1,5 @@
+Archivo original: c:\Users\guill\OneDrive\Escritorio\MASTER EN IA\Aplicaciones del Procesamiento de Lenguaje Natural\Prueba\resultados\1_temas\ayudas_22-23_requisitos-académicos.txt
+Modelo: t5 (t5-base)
+Resumen:
+
+ayudas al estudio del Ministerio de Educación y Formación Profesional, modificando el precisos para asegurar la igualdad en ese acceso a las citadas becas y ayes al .estudio sin dimensión social de la educación . a través de la Resolución de la SECRETARA DE EST   . n .. -    -- ­­­ ­ -­­-­

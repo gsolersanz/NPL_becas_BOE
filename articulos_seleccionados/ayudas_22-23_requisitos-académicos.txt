@@ -1,0 +1,859 @@
+Documento: ayudas_22-23
+Tema: requisitos_académicos
+Probabilidad: 0.1687
+
+[2.1] PARA ESTUDIANTES QUE CURSEN ESTUDIOS POSTOBLIGATORIOS
+
+[2.2] precisos para asegurar la igualdad en el acceso a las citadas becas y ayudas al estudio sin
+
+[2.3] que garantice que ningún estudiante abandone sus estudios postobligatorios por motivos
+
+[2.4] Gracias a un sensible incremento en la financiación del sistema de becas y ayudas al estudio,
+
+[2.5] de renta y patrimonio familiar y las cuantías de las becas y ayudas al estudio para el curso 2020-
+
+[2.6] a un abanico más amplio de estudiantes, al tiempo que incrementaba la cuantía de determinados
+
+[2.7] reforma, flexibilizando los requisitos académicos para la obtención de beca en el caso de las
+
+[2.8] través de esta Resolución, para el curso académico 2022-2023, las becas de carácter general para
+
+[2.9] estudiantes de enseñanzas postobligatorias, tanto universitarios como no universitarios. Los
+
+[2.10] y el resto hasta cubrir la cuantía presupuestada, y como se venía realizando en cursos anteriores,
+
+[2.11] compensación a las universidades de los precios públicos por los servicios académicos
+
+[2.12] correspondientes a estudiantes becarios y a estudiantes de la Universidad Nacional de Educación
+
+[2.13] a Distancia con discapacidad, así como en las bonificaciones correspondientes a los estudiantes
+
+[2.14] 2022-2023, cursen enseñanzas postobligatorias con validez en todo el territorio nacional.
+
+[2.15] convocatoria, los estudiantes a quienes se les concedan en cualquiera de los siguientes
+
+[2.16] El importe de las becas concedidas, excluido el importe de las becas de matrícula, no podrá
+
+[2.17] académicos correspondientes a los estudiantes exentos de su pago por ser beneficiarios de beca,
+
+[2.18] excelencia académica y de las cuantías variables mínimas según lo indicado en los artículos
+
+[2.19] estudios desde su domicilio y para los estudiantes universitarios con discapacidad en los términos
+
+[2.20] Universidades se determinará el porcentaje de dicho importe que se destinará a la cuantía variable
+
+[2.21] que corresponda, por una parte, a los estudiantes universitarios, de enseñanzas artísticas
+
+[2.22] superiores y de estudios religiosos superiores y, por otra, a los demás estudiantes no
+
+[2.23] Para el curso académico 2022-2023 y, con cargo a los créditos mencionados en el artículo
+
+[2.24] incluidos los estudios de grado y máster cursados en los centros universitarios de la
+
+[2.25] b) Curso de preparación para acceso a la universidad de mayores de 25 años impartido
+
+[2.26] complementarios para la obtención del título de grado. No se incluyen en esta convocatoria
+
+[2.27] las becas para la realización de estudios correspondientes al tercer ciclo o doctorado,
+
+[2.28] estudios de especialización ni títulos propios de las universidades.
+
+[2.29] Para cursar en el año académico 2022-2023 las enseñanzas enumeradas en el artículo anterior
+
+[2.30] matriculado el estudiante por primera vez en el curso 2022-2023, con exclusión de los que se
+
+[2.31] académicos. No formarán parte de la beca de matrícula aquellos créditos que excedan del mínimo
+
+[2.32] En el caso de los estudiantes de universidades privadas y de centros docentes adscritos a
+
+[2.33] universidades públicas y privadas que no apliquen los precios públicos oficiales aprobados por la
+
+[2.34] Comunidad Autónoma en la que el solicitante curse sus estudios para un estudio con la misma
+
+[2.35] experimentalidad en una universidad pública de esa misma Comunidad Autónoma.
+
+[2.36] correspondiente y su compensación a las universidades en los términos previstos en la disposición
+
+[2.37] umbrales de renta y patrimonio familiar y las cuantías de las becas y ayudas al estudio del
+
+[2.38] recaerá en los estudiantes a quienes se les adjudique de conformidad con lo dispuesto en esta
+
+[2.39] de Subvenciones en ningún caso el importe compensado a la universidad podrá superar el coste
+
+[2.40] gastos por razón de alquiler de vivienda o de hospedaje en pensión, residencia de estudiantes o
+
+[2.41] existencia o no de centro docente adecuado en la localidad donde el becario resida y, en su caso,
+
+[2.42] la disponibilidad de plazas, y si se imparten los estudios que se desean cursar.
+
+[2.43] formación religiosa alguno de los estudios recogidos en el artículo 3 podrá concederse esta cuantía
+
+[2.44] sin que se tenga en cuenta la posible existencia de centros docentes más cercanos al domicilio
+
+[2.45] cuenta la posible existencia de centros docentes más cercanos al domicilio familiar que aquél en
+
+[2.46] del grado medio de danza, los órganos de selección comprobarán la necesidad, en su caso, del
+
+[2.47] matriculado, así como a las horas lectivas, que no podrán ser inferiores a veinte semanales, para
+
+[2.48] Artículo 8. Cuantía fija ligada a la excelencia académica
+
+[2.49] del solicitante quienes cursen en régimen de matrícula completa los estudios enumerados en las
+
+[2.50] el curso, pruebas de acceso o estudios previos siguientes:
+
+[2.51] • Estudiantes de primer curso: nota media obtenida en segundo curso de bachillerato,
+
+[2.52] prueba o curso de acceso respectivamente o en la calificación final del ciclo formativo
+
+[2.53] de grado medio que dé acceso al ciclo formativo de grado superior.
+
+[2.54] • Estudiantes de segundos y posteriores cursos: nota media obtenida en el curso anterior,
+
+[2.55] • Estudiantes de primer curso: nota media obtenida en el cuarto curso de Educación
+
+[2.56] Secundaria Obligatoria, prueba de acceso o en la calificación final del ciclo formativo de
+
+[2.57] grado medio o de grado básico que dé acceso a estas enseñanzas, en su caso.
+
+[2.58] • Estudiantes de segundos y posteriores cursos: nota media obtenida en el curso anterior.
+
+[2.59] • Estudiantes de primer curso: nota obtenida en la prueba o curso de acceso
+
+[2.60] • Estudiantes de segundos y posteriores cursos: nota media obtenida en el curso anterior,
+
+[2.61] • Estudiantes de primer curso: la nota de acceso a la Universidad con exclusión de la
+
+[2.62] calificación obtenida en las pruebas de las materias de opción del bloque de las
+
+[2.63] 0,6 NMB + 0,4 EBAU. En las demás vías de acceso a la universidad se atenderá a la
+
+[2.64] nota obtenida en la prueba o enseñanza que permita el acceso a la universidad.
+
+[2.65] • Estudiantes de segundos y posteriores cursos: nota media obtenida en el curso anterior.
+
+[2.66] • Estudiantes de primer curso: nota media obtenida en los estudios previos que les dan
+
+[2.67] • Estudiantes de segundos cursos: nota media obtenida en primer curso de máster.
+
+[2.68] calificación a tener en cuenta en el caso de los estudiantes matriculados en segundos y
+
+[2.69] posteriores cursos de grado y a los de primer curso de máster, se le aplicará un coeficiente
+
+[2.70] corrector de 1,17 para las calificaciones procedentes de estudios del área de arquitectura e
+
+[2.71] ingeniería, de 1,11 para las procedentes de estudios del área de ciencias y de 1,05 para las
+
+[2.72] rendimiento académico, mediante la aplicación de la siguiente fórmula:
+
+[2.73] los umbrales económicos y los demás requisitos necesarios para obtener beca o ayuda al estudio
+
+[2.74] Nmax: Nota media obtenida por el mejor decil de becarios en el caso de estudiantes no
+
+[2.75] universitarios, o nota media obtenida por el mejor decil de becarios de la misma área de
+
+[2.76] conocimiento del becario en el caso de estudiantes universitarios. En el caso de estudiantes de
+
+[2.77] de becarios de los estudiantes universitarios de la rama de Artes y Humanidades. Para el cálculo
+
+[2.78] Para el cálculo de la nota media del estudiante, referida anteriormente N se aplicarán las
+
+[2.79] A las calificaciones de los becarios de primer curso de grado procedentes de la Evaluación de
+
+[2.80] Bachillerato para el Acceso a la Universidad se les aplicará un coeficiente corrector igual al
+
+[2.81] cociente entre la calificación media obtenida en los estudios universitarios por los becarios del área
+
+[2.82] para el Acceso a la Universidad, excluyendo la nota de las pruebas de las materias de opción del
+
+[2.83] bloque de las asignaturas troncales, por todos los beneficiarios que van cursar primer curso en
+
+[2.84] A las calificaciones de los becarios de primer curso de grado procedentes de ciclos formativos
+
+[2.85] media obtenida en los estudios universitarios por los becarios del área de conocimiento que
+
+[2.86] corresponda y la media de las calificaciones obtenidas por todos los becarios de primer curso
+
+[2.87] procedentes de ciclos formativos de grado superior.
+
+[2.88] A las calificaciones de los becarios de primer curso de máster se les aplicará un coeficiente
+
+[2.89] Para los becarios de primer curso de bachillerato, de primer curso de grado medio de formación
+
+[2.90] fórmula, la calificación obtenida en el cuarto curso de educación secundaria obligatoria, la nota
+
+[2.91] obtenida en la prueba de acceso o en la calificación final del ciclo formativo de grado medio o de
+
+[2.92] de esta fórmula, la nota media obtenida en segundo curso de bachillerato o en la prueba o curso
+
+[2.93] que dan acceso a estas enseñanzas. En el caso de los alumnos que accedan desde un ciclo
+
+[2.94] estudios religiosos superiores, se tendrá en cuenta la calificación obtenida en la prueba o curso
+
+[2.95] Para los becarios de segundo curso de bachillerato se tendrá en cuenta la nota media final de
+
+[2.96] todas las asignaturas de primer curso de bachillerato.
+
+[2.97] Para los becarios de segundos cursos de formación profesional se tendrá en cuenta la nota
+
+[2.98] media final de todos los módulos que integren el primer curso.
+
+[2.99] No obstante, quienes cursen estudios no universitarios en modalidad íntegramente no
+
+[2.100] bachillerato nocturno estructurado en más de dos años, quienes cursen los estudios enumerados
+
+[2.101] quienes únicamente realicen el trabajo de fin de grado o máster, o titulaciones de planes a extinguir
+
+[2.102] Las cuantías de las becas de carácter general para el curso 2022-2023 serán las siguientes:
+
+[2.103] universitarios correspondiente a los créditos en que se haya matriculado el estudiante por primera
+
+[2.104] la nota media del expediente del estudiante y de su renta familiar y cuyo importe mínimo será de
+
+[2.105] acceder al centro docente en el que cursen sus estudios desde su domicilio, dispondrán de 442,00
+
+[2.106] Estos complementos de beca serán también aplicables a los alumnos matriculados en centros
+
+[2.107] En el caso de que el estudiante tenga que desplazarse entre las islas Baleares o las islas
+
+[2.108] Artículo 13. Becas especiales para estudiantes universitarios con discapacidad.
+
+[2.109] la beca de matrícula que se concederá por el importe fijado en el curso 2022-2023 para los créditos
+
+[2.110] menores sujetos a su tutela o guardia y custodia, podrán obtener en el curso 2022-2023, siempre
+
+[2.111] número mínimo de créditos o asignaturas matriculadas en el curso 2021-2022. Tampoco les
+
+[2.112] serán de aplicación los requisitos relativos al cambio de estudios, al límite del número de años
+
+[2.113] asignaturas, módulos o su equivalente en horas en el curso 2022-2023 para el que hayan
+
+[2.114] en el mismo, deberán matricularse en el curso 2022-2023 como mínimo, del siguiente número
+
+[2.115] 50 por ciento del curso completo en el caso de enseñanzas organizadas por asignaturas.
+
+[2.116] 4.º) Estudiantes universitarios: 30 créditos o la mitad del curso completo en el caso de dobles
+
+[2.117] titulaciones de grado. En estos casos, la beca de matrícula se extenderá a los créditos que
+
+[2.118] se matriculen tanto por primera como por segunda vez.
+
+[2.119] del mismo o superior nivel al correspondiente al de los estudios para los que se solicita la beca. A
+
+[2.120] estos efectos, no podrán ser beneficiarios de beca aquellos estudiantes a quienes únicamente les
+
+[2.121] reste, para la obtención del título, la acreditación de un determinado nivel de conocimiento de un
+
+[2.122] de grado que haya sido adscrito al nivel 3 (máster) del Marco Español de Cualificaciones para la
+
+[2.123] arquitecto técnico, ingeniero técnico o diplomado que haya obtenido la correspondencia con el
+
+[2.124] nivel 3 (máster) del MECES, podrán ser beneficiarios de beca para cursar enseñanzas
+
+[2.125] conducentes a un título oficial de máster universitario
+
+[2.126] ingeniero técnico o maestro que haya obtenido la correspondencia con el nivel 2 (grado) del Marco
+
+[2.127] Español de Cualificaciones para la Educación Superior (MECES) podrán ser beneficiarios de beca
+
+[2.128] para cursar créditos complementarios o complementos de formación necesarios para la obtención
+
+[2.129] estudio para el curso 2022-2023 y se modifica parcialmente el Real Decreto 1721/2007, de 21 de
+
+[2.130] de renta y patrimonio familiar y las cuantías de las becas y ayudas al estudio para el curso 2022-
+
+[2.131] becas y ayudas al estudio del curso 2022-2023, se computará el ejercicio 2021.
+
+[2.132] Tratándose de estudiantes independientes o que formen parte de unidades familiares
+
+[2.133] independientes, se entenderá por domicilio familiar el que el alumno habita durante el curso escolar
+
+[2.134] casos la residencia del estudiante durante el curso con su domicilio familiar.
+
+[2.135] beneficio. La deducción aplicable al solicitante universitario será de 2.000,00 euros cuando éste
+
+[2.136] ciento. Cuando sea el propio solicitante universitario quien esté afectado por la discapacidad de
+
+[2.137] que curse estudios universitarios y resida fuera del domicilio familiar, cuando sean dos o más los
+
+[2.138] estudiantes con residencia fuera del domicilio familiar por razón de estudios universitarios.
+
+[2.139] deberán estar matriculados en el curso 2022-2023 en alguno de los estudios mencionados en el
+
+[2.140] artículo 3 y cumplir los requisitos de naturaleza académica que se establecen a continuación. La
+
+[2.141] cuantificación del aprovechamiento académico del solicitante se realizará en la forma dispuesta
+
+[2.142] los requisitos académicos a tener en cuenta serán los correspondientes al centro de origen.
+
+[2.143] cuenta serán los correspondientes a los estudios abandonados.
+
+[2.144] que quedan señalados se exigirán respecto del último curso realizado.
+
+[2.145] SECCIÓN 1ª. ENSEÑANZAS UNIVERSITARIAS CONDUCENTES AL TÍTULO DE GRADO
+
+[2.146] obtenidas por los estudiantes en la escala 0 a 10. Las asignaturas no presentadas se valorarán
+
+[2.147] NCt = Número de créditos cursados y que tienen la consideración de computables en esta
+
+[2.148] estar matriculados en el curso 2022-2023 de 60 créditos, es decir, en régimen de dedicación
+
+[2.149] En el supuesto de matricularse de un número superior de créditos, todos ellos serán tenidos
+
+[2.150] en cuenta para la valoración del rendimiento académico.
+
+[2.151] que les fuera posible, podrán obtener la beca de matrícula y la cuantía variable mínima. Para
+
+[2.152] obtener la beca en el siguiente curso deberán aprobar la totalidad de los créditos en que hubieran
+
+[2.153] limitado el número de créditos en que puedan quedar matriculados todos los estudiantes, el
+
+[2.154] dispuesto en esta convocatoria si se matricula en todos los créditos. Si dichos créditos se cursan
+
+[2.155] que no se aplicará esta reducción del 50 por ciento. En el supuesto de que el alumno se matricule
+
+[2.156] también en el segundo cuatrimestre/semestre correspondiente al curso académico, se completará
+
+[2.157] matriculado en el curso para el que solicita la beca no será exigible, por una sola vez, en el caso
+
+[2.158] de los estudiantes a los que, para finalizar sus estudios, les reste un número de créditos inferior a
+
+[2.159] arquitecto técnico, únicamente podrán obtener beca para la realización de un máster universitario
+
+[2.160] o, en su caso, para cursar los créditos complementarios necesarios para obtener una titulación de
+
+[2.161] grado. En este último caso deberán quedar matriculados en la totalidad de los créditos restantes
+
+[2.162] complementarios necesarios para obtener la titulación de grado sean 60 o más se podrán conceder
+
+[2.163] titulación que da acceso al grado. En todos estos supuestos podrá concederse beca por una sola
+
+[2.164] esté repitiendo curso total o parcialmente. Se entenderá que cumple el requisito académico del
+
+[2.165] número mínimo de créditos matriculados en el curso anterior para obtener beca cuando haya
+
+[2.166] superado totalmente el mencionado curso selectivo.
+
+[2.167] máster, podrán obtener la beca de matrícula para los créditos correspondientes a la titulación de
+
+[2.168] máster, siempre que acrediten reunir los requisitos establecidos para dichos estudios en los
+
+[2.169] matriculados correspondientes a la titulación de grado.
+
+[2.170] Artículo 24. Rendimiento académico en el curso anterior.
+
+[2.171] estudios de grado y, estando en posesión del título de bachillerato accedan a la universidad
+
+[2.172] mediante la Evaluación del Bachillerato para Acceso a la Universidad, se requerirá una nota de
+
+[2.173] 5,00 puntos en la nota de acceso a la universidad con exclusión de la calificación obtenida en las
+
+[2.174] la universidad se requerirá haber obtenido 5,00 puntos en la prueba o enseñanza que permita el
+
+[2.175] acceso a la universidad. En aquellos casos excepcionales en los que la calificación obtenida en la
+
+[2.176] se refiere esta sección, deberán haber superado en los últimos estudios cursados los siguientes
+
+[2.177] Ciencias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 65%
+
+[2.178] Ciencias Sociales y Jurídicas . . . . . . . . . . . . . . . . 90%
+
+[2.179] Ciencias de la Salud. . . . . . . . . . . . . . . . . . . . . . .. 80%
+
+[2.180] Ingeniería o Arquitectura/ enseñanzas técnicas. .. 65%
+
+[2.181] Los estudiantes que se hubieran matriculado en régimen de matrícula parcial en el último curso
+
+[2.182] 2021-2022 o, en su defecto, en el último año cursado será el que, para cada caso, se indica en el
+
+[2.183] disfrutar de beca durante dos años más de los establecidos en el plan de estudios.
+
+[2.184] disfrutar de beca durante un año más de los establecidos en el plan de estudios.
+
+[2.185] universidad de mayores de 25 años impartido por las universidades públicas, la beca se concederá
+
+[2.186] condición de becario, no podrá obtenerse ninguna beca en los nuevos estudios hasta que el
+
+[2.187] solicitante haya quedado matriculado de, al menos, treinta créditos más de los que hubiera cursado
+
+[2.188] titulación abandonada durante los cursos para los que se le concedió la beca.
+
+[2.189] considerará a estos efectos como rendimiento académico que debe cumplir el solicitante para
+
+[2.190] obtener beca en los nuevos estudios, el requisito académico que hubiera debido obtener en el
+
+[2.191] enseñanzas, debiendo, en todo caso, cumplirse los requisitos académicos establecidos con
+
+[2.192] aprovechamiento académico. Para determinar si existe excepcional aprovechamiento académico,
+
+[2.193] Para enseñanzas de ciencias de la salud, el porcentaje de créditos a superar establecido en el
+
+[2.194] integren el curso completo de esa doble titulación conforme al plan de estudios establecido. En el
+
+[2.195] caso de que el estudiante esté matriculado de créditos que correspondan a distinto curso, se
+
+[2.196] considerará curso completo el número de créditos que resulte de dividir el total de los que integran
+
+[2.197] el plan de estudios entre el número de años que lo componen.
+
+[2.198] Se considerará matrícula parcial, la que comprenda, al menos, la mitad de los créditos que
+
+[2.199] Cuando las dos titulaciones cursadas no pertenezcan a la misma rama o área de conocimiento,
+
+[2.200] el rendimiento académico necesario para la obtención de beca será el establecido para la rama de
+
+[2.201] Podrá disfrutarse de beca para cursar dobles titulaciones el número de años de que conste el
+
+[2.202] arquitectura e ingeniería /enseñanzas técnicas, se podrá disfrutar de un año más de lo establecido
+
+[2.203] universitario será preciso que el solicitante sea admitido y se matricule, en el curso 2022-2023 de
+
+[2.204] entre 30 y 59 créditos en el curso académico 2022-2023 que deberán aprobar en su totalidad para
+
+[2.205] obtenerla en el siguiente curso. En este caso, serán de aplicación las siguientes reglas:
+
+[2.206] limitado el número de créditos en que puedan quedar matriculados todos los estudiantes, éstos
+
+[2.207] en los que les sea posible. Si dichos créditos se cursan en un cuatrimestre/semestre o se imparten
+
+[2.208] los estudiantes que se hubieran matriculado de un cuatrimestre y posteriormente se matriculen
+
+[2.209] también en el segundo cuatrimestre/semestre correspondiente al curso académico, se completará
+
+[2.210] quedar matriculado en el segundo curso de máster no será exigible, por una sola vez, en el caso
+
+[2.211] de los estudiantes a los que, para finalizar sus estudios, les reste un número de créditos inferior a
+
+[2.212] años de los previstos en el artículo 31. Si dichos créditos se cursan en un cuatrimestre/semestre,
+
+[2.213] a efectos del cumplimiento de los requisitos académicos establecidos en este artículo.
+
+[2.214] serán tenidos en cuenta para la valoración del rendimiento académico del solicitante.
+
+[2.215] de 28 de septiembre, por el que se establece la organización de las enseñanzas universitarias y
+
+[2.216] estar en posesión de la referida titulación de Grado a 31 de diciembre de 2022.
+
+[2.217] Artículo 29. Rendimiento académico en el curso anterior.
+
+[2.218] de másteres deberán cumplir los siguientes requisitos académicos:
+
+[2.219] Los estudiantes de primer curso de másteres deberán acreditar una nota media de 5,00 puntos
+
+[2.220] en los estudios previos que les dan acceso al máster. A estos efectos, las notas medias
+
+[2.221] procedentes de estudios de enseñanzas técnicas se multiplicarán por el coeficiente 1,17.
+
+[2.222] Los estudiantes de segundo curso de másteres deberán acreditar una nota media de 5,00
+
+[2.223] solicitantes de beca para segundo curso de másteres deberán acreditar haber superado la
+
+[2.224] totalidad de los créditos de que hubieran estado matriculados en primer curso. Este mismo criterio
+
+[2.225] se aplicará también a los casos de estudiantes con discapacidad igual o superior al 65 por ciento
+
+[2.226] 2021-2022 o, en su defecto, en el último año cursado será el que, para cada caso, se indica en el
+
+[2.227] estudios de máster, la nota media requerida se calculará con las calificaciones numéricas
+
+[2.228] obtenidas por los estudiantes en la escala 0 a 10 en los créditos de que conste el plan de estudios
+
+[2.229] requerida será la calificación numérica obtenida en la escala 0 a 10 en el curso anterior,
+
+[2.230] incluyendo, en su caso, los complementos formativos cursados.
+
+[2.231] NCt = Número de créditos cursados y que tienen la consideración de computables en esta
+
+[2.232] primer curso de máster. En dicho supuesto tendrán la equivalencia en puntos correspondiente a
+
+[2.233] media se hallará teniendo en cuenta también las calificaciones obtenidas en el primer ciclo anterior.
+
+[2.234] universitario durante los años de que conste el plan de estudios.
+
+[2.235] anterior. En ese último año solo se concederá la beca de matrícula.
+
+[2.236] condición de becario, no podrá obtenerse ninguna beca en los nuevos estudios hasta que el
+
+[2.237] solicitante haya quedado matriculado de, al menos, treinta créditos más de los que hubiera cursado
+
+[2.238] titulación abandonada durante los cursos para los que se le concedió la beca.
+
+[2.239] considerará a estos efectos como rendimiento académico que debe cumplir el solicitante para
+
+[2.240] obtener beca en los nuevos estudios, el requisito académico que hubiera debido obtener en el
+
+[2.241] Artículo 32. Cálculo de la nota media para enseñanzas no universitarias.
+
+[2.242] Para el cálculo de las notas medias de las enseñanzas a que se refieren los artículos siguientes
+
+[2.243] académico obtenidas por los estudiantes en la escala 0 a 10.
+
+[2.244] profesional a unas enseñanzas no universitarias de nivel superior, la nota media será la calificación
+
+[2.245] 2ª anterior, al ciclo completo, con independencia del número de años que el alumno hubiera
+
+[2.246] NCt = Número de créditos u horas cursadas y que tienen la consideración de computables en
+
+[2.247] tendrán en cuenta a los efectos del cumplimiento de los requisitos académicos establecidos en
+
+[2.248] Para obtener beca en las enseñanzas a que se refiere este artículo, los solicitantes deberán
+
+[2.249] matricularse en el curso 2022-2023 de curso completo o, al menos, de la mitad de los módulos
+
+[2.250] los requisitos académicos exigidos en esta Resolución.
+
+[2.251] No obstante, se considerará matriculados en curso completo a los solicitantes de beca para
+
+[2.252] cursar estudios de formación profesional de grado superior a los que se les haya convalidado
+
+[2.253] créditos para considerar la matriculación de un curso completo.
+
+[2.254] curso. Estos becarios podrán ser beneficiarios únicamente de la beca básica y de la cuantía
+
+[2.255] Lo dispuesto en el párrafo anterior será también de aplicación para la beca del tercer curso de
+
+[2.256] Para obtener beca, los solicitantes de primer curso de las enseñanzas previstas en este
+
+[2.257] artículo deberán acreditar haber obtenido 5,00 puntos en segundo curso de bachillerato, prueba o
+
+[2.258] curso de acceso respectivamente o en la calificación final del ciclo formativo de grado medio que
+
+[2.259] Los estudiantes de segundos y posteriores cursos organizados por módulos deberán acreditar
+
+[2.260] haber superado en el curso anterior, al menos, un número de módulos que supongan el ochenta
+
+[2.261] y cinco por ciento de las horas totales del curso en que hubieran estado matriculados que, como
+
+[2.262] No se concederá beca a quienes estén repitiendo curso.
+
+[2.263] Se entenderá que cumplen el requisito académico para ser becarios quienes hayan repetido
+
+[2.264] curso cuando tengan superados la totalidad de los módulos de los cursos anteriores a aquél para
+
+[2.265] No se podrá disfrutar de beca durante más años de los establecidos en el plan de estudios.
+
+[2.266] Quienes cursen enseñanzas íntegramente no presenciales o utilicen ofertas de matrícula
+
+[2.267] parcial o específica para personas adultas podrán obtener la beca durante un año más de los
+
+[2.268] plan de estudios podrán obtener beca básica y cuantía variable mínima que podrá concederse
+
+[2.269] para un único curso académico y por una sola vez. Para la obtención de estas ayudas se requerirá
+
+[2.270] tener totalmente superado el ciclo y haber disfrutado de la condición de becario en el curso anterior.
+
+[2.271] Para obtener beca en las enseñanzas a que se refiere este artículo, los solicitantes deberán
+
+[2.272] matricularse en el curso 2022-2023 de curso completo o, al menos, de la mitad de los módulos
+
+[2.273] exentos no se tendrán en cuenta a efectos del cumplimiento de los requisitos académicos
+
+[2.274] más de dos años u oferta de matrícula parcial, podrán también obtener la beca siempre que se
+
+[2.275] o superior a 500 horas, que deberán aprobar en su totalidad para obtenerla en el siguiente curso.
+
+[2.276] Lo dispuesto en el párrafo anterior será también de aplicación para la beca del tercer curso de
+
+[2.277] curso deberán aprobar la totalidad de las horas matriculadas. Si estas enseñanzas tienen una
+
+[2.278] Los estudiantes de primer curso de bachillerato deberán acreditar no estar repitiendo curso y
+
+[2.279] haber obtenido una nota media de 5,00 puntos en el cuarto curso de educación secundaria
+
+[2.280] obligatoria, en la prueba de acceso o en la calificación final del ciclo formativo de grado medio o
+
+[2.281] de ciclo formativo de grado básico. Estos últimos alumnos deberán haber obtenido también el título
+
+[2.282] Los estudiantes de primer curso del resto de enseñanzas a que se refiere este artículo deberán
+
+[2.283] acreditar no estar repitiendo curso total ni parcialmente.
+
+[2.284] Los estudiantes de segundos y posteriores cursos organizados por asignaturas deberán
+
+[2.285] acreditar haber superado todas las asignaturas del curso anterior, con excepción de una.
+
+[2.286] Los estudiantes de segundos y posteriores cursos organizados por módulos deberán acreditar
+
+[2.287] haber superado en el curso anterior al menos un número de módulos que supongan el ochenta y
+
+[2.288] cinco por ciento de las horas totales del curso en que hubieran estado matriculados.
+
+[2.289] No se concederá beca a quienes repitan curso total o parcialmente.
+
+[2.290] Se entenderá que cumplen el requisito académico para ser becarios quienes hayan repetido
+
+[2.291] curso cuando tengan superadas la totalidad de las materias o módulos de los cursos anteriores a
+
+[2.292] Sólo podrá obtenerse beca durante el número de años que dure el plan de estudios.
+
+[2.293] Quienes cursen enseñanzas íntegramente no presenciales o utilicen ofertas de matrícula
+
+[2.294] parcial o específica para personas adultas podrán obtener beca durante un año más de los
+
+[2.295] plan de estudios podrán obtener beca básica y cuantía variable mínima que se concederán para
+
+[2.296] un único curso académico y por una sola vez. Para la obtención de estas ayudas se requerirá tener
+
+[2.297] totalmente superado el ciclo y haber disfrutado de la condición de becario en el curso anterior.
+
+[2.298] Para obtener beca en estas enseñanzas los alumnos deberán matricularse de curso completo.
+
+[2.299] Para estos estudios podrá concederse la beca básica y la cuantía variable mínima.
+
+[2.300] No se concederá beca a quienes estén repitiendo curso. Se entenderá que cumplen el
+
+[2.301] requisito académico para ser becarios quienes hayan repetido curso cuando tengan superadas la
+
+[2.302] totalidad de las materias de los cursos anteriores a aquél para el que solicitan la beca
+
+[2.303] el plan de estudios y para un máximo de dos idiomas siempre que no se realicen de forma
+
+[2.304] Para obtener beca en estas enseñanzas el solicitante deberá matricularse de curso completo,
+
+[2.305] sin perjuicio de las convalidaciones y exenciones a que tenga derecho. Para estos estudios podrá
+
+[2.306] No se concederá beca a quienes estén repitiendo curso. Se entenderá que cumplen el
+
+[2.307] requisito académico para ser becarios quienes hayan repetido curso cuando tengan superados la
+
+[2.308] totalidad de los módulos de los cursos anteriores a aquel para el que solicitan la beca.
+
+[2.309] medio y de grado superior se concederá beca por una única vez.
+
+[2.310] Para cursar Ciclos Formativos de Grado Básico, no se podrá disfrutar de beca durante más
+
+[2.311] Los requisitos necesarios para la obtención de beca en los estudios de máster a que se refiere
+
+[2.312] Educación, serán los establecidos, en todo aquello que les resulte de aplicación, para los estudios
+
+[2.313] Los requisitos necesarios para la obtención de beca en las demás enseñanzas artísticas
+
+[2.314] superiores, así como en los estudios religiosos superiores organizados por créditos serán los
+
+[2.315] establecidos en esta convocatoria, en todo aquello que les resulte de aplicación, para estudiantes
+
+[2.316] Para obtener beca en estas enseñanzas será preciso quedar matriculado tanto en el curso
+
+[2.317] 2021-2022 como en el 2022-2023 de curso completo según el correspondiente plan de estudios.
+
+[2.318] No será exigible la matrícula de curso completo a quienes, para finalizar sus estudios, les reste
+
+[2.319] un número de asignaturas inferior a dicho curso completo, siempre que se matriculen de todas
+
+[2.320] Los estudiantes de primer curso deberán acreditar haber obtenido en la prueba o curso de
+
+[2.321] acceso 5,00 puntos. En los siguientes cursos deberán haber superado el noventa por ciento de las
+
+[2.322] correspondiente plan de estudios. En este supuesto, la cuantía de la beca que se conceda para
+
+[2.323] 1. Quienes cambien de estudios cursados total o parcialmente con beca, no podrán obtener
+
+[2.324] ninguna otra beca ni ayuda al estudio para cursar nuevas enseñanzas mientras este cambio
+
+[2.325] entrañe pérdida de uno o más años en el proceso educativo. Se considerará que no concurre tal
+
+[2.326] pérdida cuando el paso a otra etapa o nivel de enseñanza esté previsto en la legislación vigente
+
+[2.327] como una continuación posible de los estudios realizados anteriormente.
+
+[2.328] En el supuesto de cambio de estudios superiores no universitarios cursados con beca a
+
+[2.329] estudios universitarios de grado o de máster, se aplicará lo dispuesto en los artículos 25.7 y 31.4,
+
+[2.330] como rendimiento académico que debe cumplir el solicitante para obtener beca en las nuevas
+
+[2.331] enseñanzas, el requisito académico que hubiera debido obtener en las enseñanzas abandonadas.
+
+[2.332] asistencia a clase y superación de asignaturas o de créditos.
+
+[2.333] título académico del mismo o superior nivel de estudios que aquel para el que se solicita la beca.
+
+[2.334] de la beca concedida la ocultación de la posesión de titulaciones académicas de igual o superior
+
+[2.335] nivel al de los estudios para los que se solicita la beca.
+
+[2.336] becas, las administraciones educativas correspondientes y las universidades podrán determinar
+
+[2.337] las universidades obtendrán la relación nominal de todos sus estudiantes que hayan obtenido
+
+[2.338] identidad, clases y cuantía de la beca concedida y centro en el que cursan los estudios.
+
+[2.339] comprobarán que los mencionados estudiantes han destinado la beca para la finalidad para la que
+
+[2.340] fue concedida, requiriéndose, a estos efectos, que los estudiantes universitarios superen el
+
+[2.341] carrera que no constituya una asignatura del plan de estudios, no haber presentado dicho proyecto
+
+[2.342] Tratándose de estudiantes de niveles no universitarios se entenderá que no han destinado la
+
+[2.343] estudios, no haber presentado dicho proyecto en el plazo de un año desde la fecha de la resolución
+
+[2.344] correspondientes y las universidades verificarán, al menos, un cinco por ciento de las becas
+
+[2.345] que han sido concedidas a estudiantes que no reunían alguno o algunos de los requisitos
+
+[2.346] educativas correspondientes y/o las universidades notificarán al beneficiario esta circunstancia
+
+[2.347] correspondientes y/o las universidades incoarán el correspondiente expediente de reintegro.
+
+[2.348] demás miembros computables de la unidad familiar autorizarán a las universidades y a las
+
+[2.349] académicas y familiares así como de la renta y patrimonio necesarios para la resolución de la
+
+[2.350] solicitud de beca. Excepcionalmente esta autorización podrá presentarse en las universidades o
+
+[2.351] deberá comunicarlo a la Universidad o Administración tramitadora de su beca.
+
+[2.352] universitarios se extenderá desde el día 30 de marzo de 2022 hasta el 12 de mayo de 2022, a las
+
+[2.353] en las universidades en las que corresponda realizar los estudios para los que se solicita la beca
+
+[2.354] Las solicitudes de quienes vayan a realizar la EBAU se tramitarán en la primera fase por la
+
+[2.355] universidad que el solicitante tenga asignada para la realización de las mencionadas pruebas.
+
+[2.356] universitarios, en cada universidad se constituirá en el mes de mayo de 2022, un órgano colegiado
+
+[2.357] comunidad autónoma; tres representantes de los estudiantes que sean becarios del
+
+[2.358] Estado, elegidos por los órganos de representación estudiantil que prevean las
+
+[2.359] universidades en sus normativas correspondientes. Cuando no existan suficientes
+
+[2.360] candidatos estudiantiles que tengan la condición de becarios, podrán formar parte de la
+
+[2.361] comisión estudiantes en los que no concurra esta circunstancia.
+
+[2.362] las organizaciones estudiantiles que sean mayores de dieciséis años y becarios del Estado.
+
+[2.363] Cuando no existan suficientes candidatos estudiantiles que tengan la condición de
+
+[2.364] becarios, podrán formar parte de la comisión estudiantes en los que no concurra esta
+
+[2.365] circunstancias académicas. A estos efectos, la Subdirección General de Tecnologías de la
+
+[2.366] las solicitudes de quienes vayan a cursar estudios en sus centros dependientes, los datos
+
+[2.367] Los referidos órganos cursarán quincenalmente y, en todo caso, antes del 1 de diciembre de 2022,
+
+[2.368] establecidos al efecto, soportes con los datos académicos necesarios para la comprobación del
+
+[2.369] de aquellas solicitudes que dichos órganos colegiados hayan podido comprobar que no cumplen
+
+[2.370] interesados podrán dirigirse a la unidad de becas de la administración educativa o universidad
+
+[2.371] situación de tramitación de las solicitudes en cada una de las universidades y administraciones
+
+[2.372] universidades y las comunidades autónomas firmantes del convenio mencionado en el apartado
+
+[2.373] ligada a la residencia, la cuantía fija ligada a la excelencia académica y la cuantía variable mínima
+
+[2.374] propias universidades y administraciones educativas, deberán en todo caso contener los
+
+[2.375] corresponda, por una parte, a los estudiantes universitarios, de enseñanzas artísticas superiores
+
+[2.376] y de estudios religiosos superiores y, por otra, a los demás estudiantes no universitarios. El
+
+[2.377] públicas, las universidades y las comunidades autónomas firmantes del convenio que resulta
+
+[2.378] pago de los precios públicos por servicios académicos de aquellos créditos de los que se
+
+[2.379] las becas y ayudas al estudio para el curso 2022-2023 y se modifica parcialmente el Real Decreto
+
+[2.380] universidades, en concepto de compensación de los precios públicos por servicios académicos
+
+[2.381] correspondientes a los estudiantes becarios exentos de su pago, una cantidad por estudiante
+
+[2.382] en el curso 2022-2023 fuese superior al vigente en el curso de referencia 2011-2012 para los
+
+[2.383] universidades una cantidad por estudiante con beca igual a este último importe, con el límite
+
+[2.384] habilitante o vinculado en el curso 2022-2023 fuese superior al vigente en el curso de
+
+[2.385] Profesional aportará a las universidades una cantidad por estudiante igual a este último
+
+[2.386] no habilitante en el curso 2022-2023 fuese superior al vigente en el curso de referencia 2019-
+
+[2.387] a las universidades una cantidad por estudiante igual a este último importe, con el límite de
+
+[2.388] la titulación correspondiente en el curso 2022-2023, hasta un máximo de 2.100 euros.
+
+[2.389] precio del crédito en el curso 2022-2023 fuese superior al fijado para el curso de referencia, en los
+
+[2.390] como consecuencia de convalidaciones, reconocimiento o adaptaciones de estudios, asignaturas
+
+[2.391] de Subvenciones, en ningún caso el importe compensado a la universidad podrá superar el coste
+
+[2.392] universidades y a las comunidades autónomas firmantes del convenio a que se refiere el artículo
+
+[2.393] este artículo en concepto de precios públicos por servicios académicos de sus estudiantes
+
+[2.394] selección con el visto bueno del rector de la universidad, acreditativa del número de estudiantes
+
+[2.395] los datos relativos a la matrícula de los estudiantes beneficiarios de beca.
+
+[2.396] cualquiera de los dos años que abarca el curso académico.
+
+[2.397] cantidades que hubiera compensado a las universidades por este concepto.
+
+[2.398] aunque realice simultáneamente enseñanzas conducentes a diferentes titulaciones académicas.
+
+[2.399] sea efectiva, deberá ser solicitada por el estudiante o por la entidad convocante, en cada caso, a
+
+[2.400] casos en los que se tuviera constancia de que se ha producido el pago de los gastos educativos
+
+[2.401] serán con las becas Erasmus, Tempus y otras de análoga naturaleza. Para la determinación de
+
+[2.402] que concurren en función de la universidad en la que se encuentren matriculados.
+
+[2.403] A estos efectos, las universidades y órganos correspondientes de las Comunidades
+
+[2.404] generales y académicos requeridos. Acto seguido, remitirán las solicitudes que cumplan todos los
+
+[2.405] consejería de educación estas tareas se llevarán a cabo por la comisión de selección de becarios
+
+[2.406] beneficiarios matriculados en los centros docentes dependientes de ellas.
+
+[2.407] Artículo 61. Solicitudes de estudiantes extranjeros.
+
+[2.408] En los supuestos de becas denegadas por motivos académicos en los que, a la vista de la
+
+[2.409] impedido de forma indubitada el cumplimiento de los citados requisitos académicos establecidos,
+
+[2.410] básica en el supuesto de estudios no universitarios, o beca de matrícula calculada en la forma
+
+[2.411] prevista en esta convocatoria, en el caso de estudios universitarios.
+
+[2.412] Artículo 63. Tasas de matrícula en enseñanzas no universitarias.
+
+[2.413] al alumnado matriculado en centros públicos dependientes del mismo que resulte beneficiario de
+
+[2.414] alguna de las becas o ayudas al estudio convocadas por esta Resolución para cursar enseñanzas
+
+[2.415] trata de estudios universitarios o la beca básica si se trata de estudios no universitarios.
+
+[2.416] de las correspondientes a los estudiantes de la Universidad Nacional de Educación a Distancia
+
+[2.417] del montante total destinado a la cuantía variable entre los becarios universitarios y no
+
+[2.418] universitarios, y en los artículos 53.2, 55.1 y 58.5 serán llevadas a cabo, en el ámbito de su
+
+[2.419] Artículo 66. Adaptación de requisitos académicos en enseñanzas universitarias.
+
+[2.420] Las comisiones de selección de becarios adaptarán los requisitos académicos establecidos en
+
+[2.421] esta Resolución a quienes sigan planes de estudio organizados por asignaturas.
+
+[2.422] La concesión o denegación de becas correspondientes a cursos anteriores al curso 2022-2023
+
+[2.423] Lo dispuesto en esta Resolución para los estudiantes universitarios no será de aplicación a
+
+[2.424] los alumnos con vecindad administrativa en la Comunidad Autónoma del País Vasco que cursen
+
+[2.425] estudios universitarios y estudios superiores no universitarios, en virtud de lo establecido en el
+
+[2.426] Comunidad Autónoma del País Vasco en materia de universidades.
+
+[2.427] Lo dispuesto en esta Resolución para los estudiantes no universitarios no será de aplicación
+
+[2.428] a los estudiantes no universitarios que cursen sus estudios en centros ubicados en la Comunidad

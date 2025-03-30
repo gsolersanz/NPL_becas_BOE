@@ -1,0 +1,1315 @@
+Documento: ayudas_21-22
+Tema: requisitos_económicos
+Probabilidad: 0.4108
+
+[1.1] El Real Decreto 1721/2007, de 21 de diciembre, estableció un nuevo régimen de las becas y
+
+[1.2] vigente de gestión centralizada y regulando, con carácter básico, los parámetros precisos para
+
+[1.3] competencias normativas y de ejecución de las comunidades autónomas.
+
+[1.4] El Gobierno, desde el momento de su constitución, asumió un compromiso firme con la
+
+[1.5] asegurando así la cohesión social y la igualdad de oportunidades.
+
+[1.6] el Gobierno aprobó el Real Decreto 688/2020, de 21 de julio, por el que se establecían los umbrales
+
+[1.7] y se modificaba parcialmente el Real Decreto 1721/2007, de 21 de diciembre, que introdujo
+
+[1.8] importantes medidas de reforma en el modelo de becas destinadas a facilitar el acceso a las becas
+
+[1.9] componentes de las mismas. Para este próximo curso, el Real Decreto 471/2021, de 29 de junio, por
+
+[1.10] el que se establecen los umbrales de renta y patrimonio familiar y las cuantías de las becas y ayudas
+
+[1.11] parcialmente el Real Decreto 1721/2007, de 21 de diciembre, por el que se establece el régimen de
+
+[1.12] conducentes a un título de máster habilitante e incrementando la cuantía de la beca básica para los
+
+[1.13] millones se invertirán en las becas de carácter general convocadas por esta Resolución y el resto
+
+[1.14] Por lo demás, en esta Resolución se prevé la posibilidad de celebrar convenios de colaboración
+
+[1.15] con las comunidades autónomas a fin de que éstas puedan realizar las funciones de tramitación,
+
+[1.16] pago, inspección, verificación, control y, en su caso, resolución de los recursos correspondientes a
+
+[1.17] las becas convocadas, en tanto se procede a la aprobación de los correspondientes reales decretos
+
+[1.18] de traspasos de las funciones, medios y servicios necesarios para asumir el ejercicio efectivo de
+
+[1.19] Por todo ello, de conformidad con la disposición adicional novena de la Ley 24/2005, de 18 de
+
+[1.20] noviembre, de Reforma para el Impulso de la Productividad, los Reales Decretos anteriormente
+
+[1.21] citados y la Orden ECI/1815/2005, de 6 de junio, por la que se aprueban las bases reguladoras de la
+
+[1.22] los requisitos básicos establecidos en el Real Decreto 1721/2007, así como los que se fijan en el Real
+
+[1.23] Decreto 471/2021, de 29 de junio, por el que se establecen los umbrales de renta y patrimonio familiar
+
+[1.24] para el curso 2021-2022 y se modifica parcialmente el Real Decreto 1721/2007, de 21 de diciembre,
+
+[1.25] en el artículo 13.2 de la Ley 38/2003, de 17 de diciembre, General de Subvenciones.
+
+[1.26] exceder de 1.550.000.000,00 euros. No obstante, dicho importe podrá incrementarse con una cuantía
+
+[1.27] adicional de 450.000.000,00 euros, cuando, como consecuencia de la concurrencia de alguna de las
+
+[1.28] circunstancias previstas en la letra a) del artículo 58.2 del Reglamento de la Ley General de
+
+[1.29] Subvenciones, aprobado por el Real Decreto 887/2006, de 21 de julio, se produzca un incremento de
+
+[1.30] crédito disponible antes de la concesión definitiva de las becas que se convocan por esta Resolución.
+
+[1.31] La efectividad de esta cuantía adicional queda condicionada a la declaración de disponibilidad
+
+[1.32] del crédito y, en su caso, a la previa aprobación de la modificación presupuestaria que proceda, con
+
+[1.33] anterioridad a la resolución definitiva de la convocatoria. La mencionada declaración de disponibilidad
+
+[1.34] del crédito se hará pública en el «Boletín Oficial del Estado», sin que implique apertura de plazo para
+
+[1.35] presentar nuevas solicitudes ni el inicio de nuevo cómputo de plazo para resolver.
+
+[1.36] cobertura de la beca básica, de la cuantías fijas ligadas a la renta, a la residencia y a la excelencia
+
+[1.37] como a cubrir las cuantías adicionales previstas para los becarios con domicilio familiar en la España
+
+[1.38] insular, o en Ceuta o Melilla, que se vean en la necesidad de utilizar transporte marítimo o aéreo para
+
+[1.39] se asignará a la cobertura de la cuantía variable.
+
+[1.40] provisional de un porcentaje de la misma para todas aquellas solicitudes que hayan sido tramitadas
+
+[1.41] Para el cálculo del importe a distribuir de forma provisional para las cuantías variables, se tendrá
+
+[1.42] en cuenta el importe de los recursos asignados a la convocatoria que queden disponibles una vez
+
+[1.43] asignados los importes que correspondan a las cuantías fijas indicadas en el apartado anterior en
+
+[1.44] relación con el número de solicitudes tramitadas en la convocatoria en curso.
+
+[1.45] Tramitadas la totalidad de las solicitudes, se procederá a la asignación definitiva del 100 por cien
+
+[1.46] de la cuantía variable entre todas las solicitudes con derecho a la misma.
+
+[1.47] anterior se convocan becas sin número determinado de personas beneficiarias para las siguientes
+
+[1.48] se convocan becas que incluirán alguna o algunas de las siguientes cuantías:
+
+[1.49] El importe será el del precio público oficial que se fije en el curso 2021-2022 para los servicios
+
+[1.50] necesario para obtener la titulación de que se trate.
+
+[1.51] Comunidad Autónoma, la cuantía de esta beca será igual al precio mínimo establecido por la
+
+[1.52] adicional cuarta del Real Decreto 471/2021, de 29 de junio, por el que se establecen los umbrales
+
+[1.53] Decreto 1721/2007, de 21 de diciembre, y mediante el procedimiento que se establece en el artículo
+
+[1.54] No obstante, este procedimiento de pago, la condición de beneficiario de beca de matrícula
+
+[1.55] 5. Conforme a lo dispuesto en el artículo 19.3 de la Ley 38/2003, de 17 de noviembre, en ningún
+
+[1.56] régimen presencial y de matrícula completa o en régimen semipresencial y de matrícula completa los
+
+[1.57] en régimen presencial y de matrícula completa o en régimen semipresencial y de matrícula completa
+
+[1.58] requerirá que el solicitante acredite la necesidad de residir fuera del domicilio familiar durante todo el
+
+[1.59] A estos efectos, se considerará como domicilio familiar el más próximo al centro docente del que
+
+[1.60] sea titular o en el que resida de forma habitual algún miembro computable de la unidad familiar,
+
+[1.61] aunque no coincida con el domicilio legal del solicitante.
+
+[1.62] Procederá el pago de la cuantía fija ligada a la residencia exclusivamente cuando se acrediten
+
+[1.63] solicitante de residir fuera de su domicilio atendiendo al número de asignaturas en que se haya
+
+[1.64] asignaturas troncales es decir, dicha nota de acceso se calculará conforme a la fórmula
+
+[1.65] El cómputo de la nota media se realizará conforme al procedimiento establecido en los artículos
+
+[1.66] 22, 30 y 32 de esta Resolución incluyendo las calificaciones correspondientes a asignaturas o
+
+[1.67] créditos no superados, si los hubiere. Para la adjudicación de esta cuantía, a la calificación a
+
+[1.68] cuantía variable, se distribuirá entre los solicitantes en función de su renta familiar y de su rendimiento
+
+[1.69] Cmin = Cuantía variable mínima, que se establecerá en los reales decretos anuales que fijen los
+
+[1.70] Ctotal = Importe total a distribuir de forma variable: en cada convocatoria se podrán fijar una o
+
+[1.71] Nj= Nota media del becario. Para el cálculo de esta nota media se computarán también las
+
+[1.72] calificaciones correspondientes a asignaturas o créditos no superados, si los hubiere.
+
+[1.73] Ni = Nota media de cada uno de los becarios a que se refiere S
+
+[1.74] computarán las notas de aquellos becarios a los que, de acuerdo con lo dispuesto en esta
+
+[1.75] convocatoria, les corresponda percibir la cuantía variable mínima.
+
+[1.76] Rj= Renta per cápita del becario (igual a cero si Rj es negativo)
+
+[1.77] Ri = Renta per cápita de cada uno de los becarios a que se refiere S
+
+[1.78] Rmax = Renta per cápita máxima para ser beneficiario de la cuantía variable
+
+[1.79] conocimiento que corresponda y la calificación media obtenida en Evaluación de Bachillerato para el
+
+[1.80] de grado superior se les aplicará un coeficiente corrector igual al cociente entre la calificación media
+
+[1.81] corrector de 1,17 cuando sus calificaciones procedan de titulaciones del área de arquitectura e
+
+[1.82] profesionales de música y danza se tendrá en cuenta, a los efectos de la aplicación de esta fórmula,
+
+[1.83] se comunicarán a las comunidades autónomas firmantes del convenio para la gestión de las becas,
+
+[1.84] a los efectos de su aplicación para la asignación de la cuantía variable a los becarios.
+
+[1.85] quienes opten por la matrícula parcial, oferta específica para personas adultas o bachillerato nocturno
+
+[1.86] vez en el curso 2021-2022, en los términos previstos en el artículo 5 de esta Resolución.
+
+[1.87] Artículo 12. Cuantías adicionales por domicilio insular o en Ceuta o Melilla.
+
+[1.88] Los beneficiarios de beca con domicilio familiar en la España insular, o en Ceuta o Melilla, que
+
+[1.89] Esta cantidad adicional será de 623,00 euros para los becarios con domicilio familiar en las islas
+
+[1.90] de Lanzarote, Fuerteventura, La Gomera, El Hierro y La Palma, Menorca, Ibiza y Formentera. Estos
+
+[1.91] insular que carezca de centro asociado o colaborador.
+
+[1.92] Canarias y la Península Ibérica, las cantidades a que se refieren los dos párrafos anteriores serán de
+
+[1.93] Para la concesión de estas cuantías adicionales se aplicará el umbral 2 de renta familiar.
+
+[1.94] grado igual o superior al 65 por ciento podrán reducir la carga lectiva a matricular en los términos
+
+[1.95] previstos en los artículos 23.5 y 28.5 de esta Resolución.
+
+[1.96] totalidad de los créditos señalados en los artículos 23.1 y 28.1 de esta Resolución, las cuantías fijas
+
+[1.97] de las becas que les correspondan se incrementarán en un 50 por ciento, con excepción de la beca
+
+[1.98] cuantías que se establecen en los artículos precedentes para los supuestos de matrícula parcial.
+
+[1.99] hallen cubiertos suficientemente por servicios o fondos públicos.
+
+[1.100] Artículo 14. Régimen de las becas para las víctimas de violencia de género.
+
+[1.101] dispuesto en el artículo 23 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección
+
+[1.102] Integral contra la Violencia de Género, desde el 30 de junio de 2020 a 30 de junio de 2022, así como
+
+[1.103] sus hijos e hijas menores de veintitrés años y los menores sujetos a su tutela o guardia y custodia,
+
+[1.104] en la normativa vigente, la beca básica, o beca de matrícula según corresponda, la cuantía fija ligada
+
+[1.105] a la renta, la cuantía fija ligada a la residencia y la cuantía variable que resulte de la aplicación de la
+
+[1.106] fórmula establecida en el artículo 9.2 del Real Decreto 1721/2007, de 21 de diciembre, para el cálculo
+
+[1.107] establecidos en relación con la carga lectiva superada, la nota media obtenida ni el número mínimo
+
+[1.108] la exigencia de superar un determinado porcentaje de créditos, asignaturas, módulos o su
+
+[1.109] créditos, horas, asignaturas, módulos o su equivalente en horas:
+
+[1.110] De conformidad con el artículo 4.1 del Real Decreto 1721/2007, de 21 de diciembre, para ser
+
+[1.111] beneficiario de las becas que se convocan por esta Resolución será preciso:
+
+[1.112] No obstante lo dispuesto en el párrafo anterior, quienes estén en posesión de un título oficial de
+
+[1.113] b) Cumplir los requisitos básicos establecidos en el Real Decreto 1721/2007, de 21 de diciembre,
+
+[1.114] así como los que se fijan en el Real Decreto 471/2021, de 29 de junio, por el que se establecen los
+
+[1.115] 2021-2022 y se modifica parcialmente el Real Decreto 1721/2007, de 21 de diciembre
+
+[1.116] de ciudadanos de la Unión Europea o de sus familiares, beneficiarios de los derechos de libre
+
+[1.117] circulación y residencia, se requerirá que tengan la condición de residentes permanentes o que
+
+[1.118] acrediten ser trabajadores por cuenta propia o ajena. Estos requisitos no serán exigibles para la
+
+[1.119] Tendrán la consideración de «familiares» el cónyuge o la pareja legal, así como los ascendientes
+
+[1.120] directos a cargo y los descendientes directos a cargo menores de 21 años.
+
+[1.121] En el supuesto de extranjeros no comunitarios, se aplicará lo dispuesto en la normativa sobre
+
+[1.122] derechos y libertades de los extranjeros en España y su integración social.
+
+[1.123] Los requisitos establecidos en este apartado deberán reunirse a 31 de diciembre de 2020.
+
+[1.124] Excepcionalmente, en el caso de solicitantes de estatuto de refugiado o protección subsidiaria, el
+
+[1.125] permiso de residencia legal podrá obtenerse hasta el 30 de junio de 2021.
+
+[1.126] procedimiento y se aplicarán los umbrales de renta y patrimonio familiares que se fijan en este
+
+[1.127] uno de los miembros computables de la familia que obtengan ingresos de cualquier naturaleza,
+
+[1.128] calculadas según se indica en los apartados siguientes y de conformidad con la normativa reguladora
+
+[1.129] del Impuesto sobre la Renta de las Personas Físicas aplicable conforme a lo dispuesto en el Real
+
+[1.130] Decreto 471/2021, de 29 de junio, por el que se establecen los umbrales de renta y patrimonio familiar
+
+[1.131] declaración por el Impuesto sobre la Renta de las Personas Físicas, se procederá del modo siguiente:
+
+[1.132] saldos netos negativos de ganancias y pérdidas patrimoniales de 2016 a 2019 y el saldo neto negativo
+
+[1.133] de rendimientos del capital mobiliario de 2016 a 2019 a integrar en la base imponible del ahorro.
+
+[1.134] propios y no hayan presentado declaración por el Impuesto sobre la Renta de las Personas Físicas
+
+[1.135] se seguirá el procedimiento descrito en la letra a) del apartado 3 y del resultado obtenido se restarán
+
+[1.136] computables los padres y, en su caso, el tutor o persona encargada de la guarda y protección del
+
+[1.137] menor, quienes tendrán la consideración de sustentadores principales de la familia. También serán
+
+[1.138] miembros computables el solicitante, los hermanos solteros menores de 25 años, o los de mayor
+
+[1.139] edad, cuando se trate de personas con discapacidad física, psíquica o sensorial, así como los
+
+[1.140] menores en régimen de acogimiento permanente o de guarda con fines de adopción y los
+
+[1.141] ascendientes de los padres que justifiquen su residencia en el mismo domicilio que los anteriores con
+
+[1.142] el certificado municipal correspondiente. Para ser considerado miembro computable deberá constar
+
+[1.143] la convivencia en el domicilio familiar a 31 de diciembre de 2020.
+
+[1.144] En el caso de solicitantes que constituyan unidades familiares independientes, se considerarán
+
+[1.145] miembros computables y sustentadores principales el solicitante y su cónyuge, su pareja registrada
+
+[1.146] o no que se halle unida por análoga relación. También serán miembros computables los hijos
+
+[1.147] menores de veinticinco años, si los hubiere, y convivan en el mismo domicilio.
+
+[1.148] computable aquél de ellos que no conviva con el solicitante de la beca.
+
+[1.149] No obstante, en su caso, tendrá la consideración de miembro computable y sustentador principal, el
+
+[1.150] nuevo cónyuge, pareja, registrada o no, o persona unida por análoga relación cuyas rentas y
+
+[1.151] patrimonio se incluirán dentro del cómputo de la renta y patrimonio familiares. Asimismo, tendrá la
+
+[1.152] consideración de miembro computable la persona con ingresos propios que, a la referida fecha,
+
+[1.153] conviva en el domicilio con el solicitante cuando no medie relación de parentesco y no se pueda
+
+[1.154] Cuando el régimen de custodia de los hijos sea el de custodia compartida, se considerarán miembros
+
+[1.155] computables el padre y la madre del solicitante de la beca, sus hijos comunes y los ascendientes del
+
+[1.156] padre y de la madre que justifiquen su residencia en el mismo domicilio que los anteriores con el
+
+[1.157] será de aplicación a la familia de acogida lo dispuesto en los párrafos anteriores. Cuando se trate de
+
+[1.158] un mayor de edad tendrá la consideración de no integrado en la unidad familiar, a estos efectos,
+
+[1.159] siempre y cuando de hecho no subsistan las circunstancias de integración con la familia de acogida
+
+[1.160] económica, cualquiera que sea su estado civil, deberá acreditar fehacientemente que cuenta con
+
+[1.161] medios económicos propios suficientes que permitan dicha independencia, así como la titularidad o
+
+[1.162] el alquiler de su domicilio habitual. En caso contrario, y siempre que los ingresos acreditados resulten
+
+[1.163] inferiores a los gastos soportados en concepto de vivienda y otros gastos considerados
+
+[1.164] indispensables, se entenderá no probada la independencia, por lo que, para el cálculo de la renta y
+
+[1.165] patrimonio familiar a efectos de beca, se computarán los ingresos correspondientes a los miembros
+
+[1.166] computables de la familia a que se refieren los apartados 1 y 2 de este artículo.
+
+[1.167] por lo que no procederá la concesión de la cuantía ligada a la residencia, al coincidir en estos casos
+
+[1.168] deberá acreditarse que las situaciones que dan derecho a la deducción concurrían a 31 de diciembre
+
+[1.169] conviva en el domicilio familiar, cuando se trate de familias numerosas de categoría general y 800,00
+
+[1.170] euros para familias numerosas de categoría especial, siempre que tenga derecho a este beneficio.
+
+[1.171] afectado de una discapacidad de grado igual o superior al sesenta y cinco por ciento. Cuando sea el
+
+[1.172] propio solicitante el titular de la familia numerosa, las cantidades señaladas serán computadas en
+
+[1.173] de discapacidad, legalmente calificada, de grado igual o superior al treinta y tres por ciento y 2.881,00
+
+[1.174] euros cuando la discapacidad sea de grado igual o superior al sesenta cinco por ciento. Cuando sea
+
+[1.175] sesenta y cinco por ciento, la deducción aplicable a dicho solicitante será de 4.000,00 euros.
+
+[1.176] entenderá por familia monoparental la constituida por un solo adulto, que sea el único sustentador de
+
+[1.177] la familia, que conviva con uno o más hijos menores de 25 años o de mayor edad, cuando se trate
+
+[1.178] de personas con discapacidad física, psíquica o sensorial, o con uno o más menores en régimen de
+
+[1.179] acogimiento familiar permanente o de guarda con fines de adopción a su cargo.
+
+[1.180] Los umbrales de renta familiar aplicables para la concesión de las becas que se convocan por
+
+[1.181] esta Resolución serán los que se señalan a continuación:
+
+[1.182] A partir del octavo miembro se añadirán 3.368,00 euros por cada nuevo miembro computable de
+
+[1.183] A partir del octavo miembro se añadirán 3.181,00 euros por cada nuevo miembro computable de
+
+[1.184] A partir del octavo miembro se añadirán 3.391,00 euros por cada nuevo miembro computable de
+
+[1.185] Artículo 20. Umbrales indicativos de patrimonio familiar.
+
+[1.186] artículos anteriores, cuando el valor de los elementos indicativos del patrimonio a 31 de diciembre de
+
+[1.187] 2020 del conjunto de miembros computables de la familia supere alguno o algunos de los umbrales
+
+[1.188] computables de la familia, excluida la vivienda habitual, no podrá superar 42.900,00 euros. En caso
+
+[1.189] de inmuebles en los que la fecha de efecto de la última revisión catastral estuviera comprendida entre
+
+[1.190] el 1 de enero de 1990 y el 31 de diciembre de 2002 se multiplicarán los valores catastrales por 0,49.
+
+[1.191] En el caso de que la fecha de la mencionada revisión fuera posterior al 31 de diciembre de 2002, los
+
+[1.192] valores catastrales se multiplicarán por los coeficientes siguientes:
+
+[1.193]  Por 0,36 los revisados entre 2014 y 2020, ambos inclusive.
+
+[1.194] En los inmuebles enclavados en la Comunidad Foral de Navarra, el valor catastral se multiplicará
+
+[1.195] el valor catastral de la construcción que constituya la vivienda habitual de la familia, no podrá superar
+
+[1.196] los 42.900 euros, siendo aplicables a dichas construcciones los coeficientes multiplicadores, en
+
+[1.197] función del año en que se hubiera efectuado la última revisión catastral, que se establecen en el
+
+[1.198] las construcciones que pertenezcan a los miembros computables de la familia no podrá superar
+
+[1.199] positivo de todas las ganancias y pérdidas patrimoniales perteneciente a los miembros computables
+
+[1.200] No se incluirán en esta suma las subvenciones recibidas para adquisición o rehabilitación de la
+
+[1.201] vivienda habitual, la renta básica de emancipación ni el importe de los premios en metálico o en
+
+[1.202] especie obtenidos por la participación en juegos, concursos, rifas o combinaciones aleatorias hasta
+
+[1.203] 1.500 euros. Las ganancias patrimoniales derivadas de los mencionados premios se computarán de
+
+[1.204] acuerdo con la normativa del Impuesto sobre la Renta de las Personas Físicas.
+
+[1.205] El valor de los elementos indicativos de patrimonio a que se refiere este apartado d) se
+
+[1.206] determinará de conformidad con lo dispuesto en la normativa del Impuesto sobre la Renta de las
+
+[1.207] anteriores de los que dispongan los miembros computables de la familia, se calculará el porcentaje
+
+[1.208] de valor de cada elemento respecto del umbral correspondiente.
+
+[1.209] Se denegará la beca cuando la suma de los referidos porcentajes supere el valor cien.
+
+[1.210] de los ingresos que se indican a continuación obtenida por el conjunto de los miembros computables
+
+[1.211] de la familia supere la cantidad de 155.500 euros:
+
+[1.212] través de entidades sin personalidad jurídica o cualquier otra clase de entidad jurídica, una vez
+
+[1.213] aplicado a los ingresos totales de las actividades el porcentaje de participación en las mismas.
+
+[1.214] se deducirá el 50 por ciento del valor de los que pertenezcan a cualquier miembro computable de la
+
+[1.215] Artículo 21. Normas comunes para todos los niveles.
+
+[1.216] Para el cálculo de las notas medias a que se refieren los artículos siguientes se aplicarán las
+
+[1.217] dividiendo el total de puntos obtenidos entre el número total de asignaturas.
+
+[1.218] cada asignatura se ponderará en función del número de créditos que la integren, de acuerdo con la
+
+[1.219] V = Valor resultante de la ponderación de la nota obtenida en cada asignatura.
+
+[1.220] NCa = Número de créditos que integran la asignatura.
+
+[1.221] Los valores resultantes de la aplicación de dicha fórmula se sumarán, siendo el resultado la nota
+
+[1.222] 5. Con la excepción recogida en el artículo 33.1.1º, en el 43.2, y demás salvedades establecidas
+
+[1.223] en esta convocatoria, las asignaturas y créditos reconocidos, convalidados, adaptados y transferidos
+
+[1.224] contabilizarán como asignaturas con los créditos que tengan asignados y con la calificación obtenida
+
+[1.225] extranjeras, la comisión de selección establecerá la equivalencia al sistema decimal español
+
+[1.226] asignatura por asignatura, teniendo en cuenta la nota mínima de aprobado y la máxima de la
+
+[1.227] calificación original y la consiguiente relación de correspondencia con el sistema de calificación
+
+[1.228] A los efectos de esta convocatoria, esta situación se denominará matrícula parcial y serán de
+
+[1.229] podrá obtener todas las cuantías de beca que le correspondan de conformidad con lo dispuesto en
+
+[1.230] cuatrimestre/semestre, la cuantía de la beca será del 50 por ciento de la cantidad que le hubiese
+
+[1.231] correspondido con excepción de la beca de matrícula y la cuantía variable mínima a las que no se
+
+[1.232] número mínimo, siempre que no haya disfrutado de la condición de becario durante más años de los
+
+[1.233] créditos correspondientes a distintas especialidades o que superen los necesarios para la obtención
+
+[1.234] del título correspondiente, ni las asignaturas o créditos convalidados, adaptados o reconocidos.
+
+[1.235] reducir la carga lectiva necesaria para cumplir el requisito de matriculación indicado en el párrafo 1
+
+[1.236] de este artículo hasta un máximo del 50 por ciento, quedando sujetas las cuantías a lo establecido
+
+[1.237] en el artículo 13 de la presente Resolución. En ningún caso podrá optar a beca con una matrícula
+
+[1.238] En este último caso deberán quedar matriculados en la totalidad de los créditos restantes para la
+
+[1.239] obtención de la mencionada titulación. Para la asignación de las cuantías de beca que correspondan
+
+[1.240] se atenderá al número de créditos matriculados. Cuando dicho número sea inferior a 60 créditos se
+
+[1.241] asignará la beca de matrícula y la cuantía variable mínima. Cuando los créditos complementarios
+
+[1.242] modalidades de ayuda. La nota media requerida será, en este caso, la obtenida en la titulación que
+
+[1.243] en el segundo cuatrimestre, adaptarán a esa circunstancia las disposiciones de la presente
+
+[1.244] esta Resolución, además de las cuantías que les correspondan, de acuerdo con lo previsto en esta
+
+[1.245] convocatoria, para los créditos de que hayan quedado matriculados correspondientes a la titulación
+
+[1.246] materias de opción del bloque de las asignaturas troncales es decir, dicha nota de acceso se calculará
+
+[1.247] acceso por el solicitante no se corresponda con la escala de 0 a 10, el órgano de selección realizará
+
+[1.248] la adaptación a la referida escala que resulte procedente.
+
+[1.249] Artes y Humanidades . . . ......................... 90%
+
+[1.250] realizado y superen el porcentaje de créditos establecido en la tabla anterior, podrán obtener la beca
+
+[1.251] aplicación de las medidas adoptadas para la contención de la pandemia del COVID 19, no le hayan
+
+[1.252] sobre el número de créditos o asignaturas efectivamente evaluadas o que hubieran podido ser
+
+[1.253] adicionales será la beca de matrícula, la cuantía variable mínima y el cincuenta por ciento de las
+
+[1.254] en modalidad íntegramente no presencial podrán disfrutar de la condición de becario durante un año
+
+[1.255] más de lo establecido en los apartados 1 y 2 de este artículo. En el último año solo se concederá la
+
+[1.256] carga lectiva de acuerdo con lo señalado en el artículo 23.5 anterior dispondrán hasta el doble de los
+
+[1.257] años establecidos en el apartado primero de este artículo.
+
+[1.258] Cuando los referidos créditos adicionales estuvieran comprendidos entre treinta y cincuenta y
+
+[1.259] nueve, se considerará matrícula parcial. Cuando dichos créditos adicionales fueran, al menos,
+
+[1.260] A estos exclusivos efectos se tendrán en cuenta los créditos convalidados, reconocidos,
+
+[1.261] adaptados y transferidos y se computarán todos los créditos en que estuvo matriculado en la titulación
+
+[1.262] calculará el incremento porcentual de créditos matriculados sobre el número mínimo de los mismos
+
+[1.263] porcentaje de créditos a superar establecido en el artículo 24 para obtener beca, se determinará
+
+[1.264] artículo 24 para obtener beca, se determinará mediante la siguiente fórmula matemática:
+
+[1.265] créditos a superar establecido en el artículo 24 para obtener beca, se determinará mediante la
+
+[1.266] Y = Incremento porcentual de créditos matriculados sobre el número mínimo de los mismos a
+
+[1.267] Para la concesión de las becas que se convocan en esta Resolución a quienes cursen dobles
+
+[1.268] titulaciones les será de aplicación lo dispuesto en los artículos anteriores con las salvedades que se
+
+[1.269] Se considerará matrícula completa, la que comprenda, como mínimo, todos los créditos que
+
+[1.270] En los casos de dobles titulaciones no será de aplicación lo dispuesto para los supuestos de
+
+[1.271] No obstante, en el caso de que una o ambas titulaciones pertenezcan a la rama o área de
+
+[1.272] que les fuera posible podrán obtener únicamente la cuantía variable mínima y la beca de matrícula.
+
+[1.273] podrán obtener todas las cuantías que les correspondan si se matriculan en todos aquellos créditos
+
+[1.274] en régimen de fin de semana o comprenden un número de horas teórico/prácticas inferior a 300, la
+
+[1.275] cuantía de la beca que les corresponderá será la beca de matrícula, la cuantía variable mínima y el
+
+[1.276] cincuenta por ciento de las demás cuantías que le hubiesen correspondido. En el supuesto de los
+
+[1.277] de la beca hasta el total que le hubiese correspondido.
+
+[1.278] número mínimo, siempre que no haya disfrutado de la condición de becario durante más años de los
+
+[1.279] beca será del cincuenta por ciento de la cantidad que le hubiese correspondido con excepción de la
+
+[1.280] beca de matrícula y la cuantía variable mínima a las que no se aplicará esta reducción del cincuenta
+
+[1.281] anteriores, créditos correspondientes a distintas especialidades o que superen los necesarios para la
+
+[1.282] reducir la carga lectiva necesaria para cumplir el requisito de matriculación indicado en el párrafo 1
+
+[1.283] de este artículo hasta un máximo del 50 por ciento quedando sujetas las cuantías a lo establecido en
+
+[1.284] el artículo 13 de la presente Resolución. En ningún caso podrá optar a beca con una matrícula inferior
+
+[1.285] totalidad de los créditos y se concederá la beca por una sola vez.
+
+[1.286] técnicas se multiplicarán por el coeficiente 1,17.
+
+[1.287] Para valorar el número de créditos superados no se tendrán en cuenta los créditos
+
+[1.288] aplicación de las medidas adoptadas para la contención de la pandemia, no le hayan podido ser
+
+[1.289] de máster, la nota media requerida se calculará con las calificaciones numéricas obtenidas por los
+
+[1.290] dividiendo el total de puntos obtenidos entre el número total de asignaturas.
+
+[1.291] cada asignatura se ponderará en función del número de créditos que la integren, de acuerdo con la
+
+[1.292] V = Valor resultante de la ponderación de la nota obtenida en cada asignatura.
+
+[1.293] NCa = Número de créditos que integran la asignatura.
+
+[1.294] Los valores resultantes de la aplicación de dicha fórmula se sumarán, siendo el resultado la nota
+
+[1.295] se tendrán en cuenta a los efectos del cálculo de la nota media de la titulación que dé acceso al
+
+[1.296] calificación obtenida en el centro de procedencia. Cuando no exista esta calificación se valorarán
+
+[1.297] contabilizarán como asignaturas con los créditos que tengan asignados y con la calificación obtenida
+
+[1.298] extranjeras, la comisión de selección establecerá la equivalencia al sistema decimal español
+
+[1.299] asignatura por asignatura, teniendo en cuenta la nota mínima de aprobado y la máxima de la
+
+[1.300] calificación original y la consiguiente relación de correspondencia con el sistema de calificación
+
+[1.301] La nota media se obtendrá de la suma de las calificaciones obtenidas en cada una de las asignaturas
+
+[1.302] presencial podrá disfrutarse de la beca durante un año más de lo indicado en el apartado anterior. En
+
+[1.303] reducción de carga lectiva, dispondrán hasta el doble de lo establecido en el apartado primero de
+
+[1.304] Cuando los referidos créditos adicionales estuvieran comprendidos entre treinta y cincuenta y
+
+[1.305] nueve, se considerará matrícula parcial. Cuando dichos créditos adicionales fueran, al menos,
+
+[1.306] A estos exclusivos efectos se tendrán en cuenta los créditos convalidados, reconocidos,
+
+[1.307] adaptados y transferidos y se computarán todos los créditos en que estuvo matriculado en la titulación
+
+[1.308] Las asignaturas no presentadas se valorarán con 2,50 puntos.
+
+[1.309] final del ciclo formativo correspondiente desde el que se accede.
+
+[1.310] dividiendo el total de puntos obtenidos entre el número total de asignaturas.
+
+[1.311] obtenida en cada asignatura se ponderará en función del número de créditos o de horas que la
+
+[1.312] V = Valor resultante de la ponderación de la nota obtenida en cada asignatura.
+
+[1.313] NCa = Número de créditos u horas que integran la asignatura.
+
+[1.314] Los valores resultantes de la aplicación de dicha fórmula se sumarán, siendo el resultado la nota
+
+[1.315] se contabilizarán como asignaturas con los créditos que tengan asignados y con la calificación
+
+[1.316] extranjeros, la comisión de selección establecerá la equivalencia al sistema decimal español
+
+[1.317] asignatura por asignatura, teniendo en cuenta la nota mínima de aprobado y la máxima de la
+
+[1.318] calificación original y la consiguiente relación de correspondencia con el sistema de calificación
+
+[1.319] Los módulos convalidados o exentos no se tendrán en cuenta a efectos del cumplimiento de los
+
+[1.320] y que no puedan matricularse de otros módulos adicionales que pudieran sumar créditos para
+
+[1.321] - “Primeros auxilios” que es el mismo para grado medio (en “ Farmacia y Parafarmacia”, “Atención
+
+[1.322] a personas en situación de dependencia”, y “Conducción de vehículos de Transporte por carretera”)
+
+[1.323] Turística”, “Integración Social”, “Promoción de la Igualdad de género” y “Mediación comunicativa”)
+
+[1.324] - “Interpretación gráfica” que es el mismo en los ciclos de grado medio (de “Mecanizado”,
+
+[1.325] Quienes utilicen ofertas de matrícula parcial o específica para personas adultas podrán también
+
+[1.326] obtener beca matriculándose al menos de un número de módulos cuya suma horaria sea igual o
+
+[1.327] becarios podrán ser beneficiarios únicamente de la beca básica y de la cuantía variable mínima.
+
+[1.328] quienes cursen ciclos formativos de más de dos años de duración.
+
+[1.329] mínimo, deberán ser los que se señalan en el apartado 1º anterior.
+
+[1.330] Para calcular el porcentaje de módulos, créditos o su equivalente en horas superados, no se
+
+[1.331] tendrán en cuenta los correspondientes a módulos que, como consecuencia de la aplicación de las
+
+[1.332] medidas adoptadas para la contención de la pandemia, hayan sido objeto de autorización de
+
+[1.333] caso, el porcentaje se calculará sobre el número de módulos efectivamente evaluados.
+
+[1.334] que solicitan la beca. A estos efectos, también se tendrá en cuenta la circunstancia derivadas de la
+
+[1.335] aplicación de medidas para la contención de la pandemia anteriormente señaladas.
+
+[1.336] comprenden el correspondiente ciclo. Las materias, asignaturas o módulos convalidados o exentos
+
+[1.337] Quienes utilicen la oferta específica de personas adultas, bachillerato nocturno organizado en
+
+[1.338] matriculen de, al menos, cuatro asignaturas o un número de módulos cuya suma horaria sea igual o
+
+[1.339] becarios que hagan uso de alguna de estas posibilidades podrán ser beneficiarios de la beca básica
+
+[1.340] quienes cursen ciclos formativos de más de dos años de duración.
+
+[1.341] Para calcular el número de asignaturas o el porcentaje de módulos profesionales, créditos o su
+
+[1.342] a asignaturas o módulos profesionales que, como consecuencia de la aplicación de las medidas
+
+[1.343] adoptadas para la contención de la pandemia del COVID 19, hayan sido objeto de autorización de
+
+[1.344] aquél para el que solicitan la beca. A estos efectos, también se tendrá en cuenta las circunstancias
+
+[1.345] derivadas de las medidas adoptadas para la contención de la pandemia anteriormente señaladas.
+
+[1.346] Para determinar el número de materias superadas no se tendrán en cuenta aquéllas que, como
+
+[1.347] consecuencia de la aplicación de las medidas adoptadas para la contención de la pandemia, hayan
+
+[1.348] sido objeto de autorización de aplazamiento por parte del becario, para su realización en el siguiente
+
+[1.349] concederse la beca básica y la cuantía variable mínima.
+
+[1.350] se tendrá en cuenta las circunstancias derivadas de las medidas adoptadas para la contención de la
+
+[1.351] el Real Decreto 1614/2009, de 26 de octubre, por el que se establece la ordenación de las
+
+[1.352] en la redacción dada por la Ley Orgánica 3/2020, de 29 de diciembre, serán los establecidos, en todo
+
+[1.353] y no hayan disfrutado de la condición de becario durante más años de los previstos en el apartado 2
+
+[1.354] En los casos de matrícula parcial se concederán los componentes de beca básica y cuantía
+
+[1.355] tendrán en cuenta aquellas que, como consecuencia de la aplicación de las medidas adoptadas para
+
+[1.356] la contención de la pandemia no le hayan podido ser evaluadas al becario. En este caso, el número
+
+[1.357] de asignaturas superadas se calculará sobre las efectivamente evaluadas o que hubieran podido ser
+
+[1.358] Podrá disfrutarse de la condición de becario durante un año más de los establecidos en el
+
+[1.359] año será la cuantía variable mínima y el cincuenta por ciento de las demás cuantías que le hubiesen
+
+[1.360] Los beneficiarios de las becas que se convocan por esta Resolución quedan obligados a:
+
+[1.361] cumplimiento y efectividad de las condiciones determinantes de la concesión de la beca.
+
+[1.362] becario en años anteriores, así como de estar en posesión o en condiciones legales de obtener un
+
+[1.363] finalidad, procedentes de cualquier administración o ente público o privado nacional o internacional.
+
+[1.364] alteración de las condiciones tenidas en cuenta para la concesión de la beca.
+
+[1.365] control que asegure la correcta inversión de los recursos presupuestarios destinados a becas.
+
+[1.366] de la beca solicitada o a la modificación o revocación de la concesión.
+
+[1.367] se da la ocultación a que se refiere el apartado anterior por cualquier medio de prueba y, en particular,
+
+[1.368] mediante los datos que obren en poder de cualquier otro órgano de las administraciones públicas.
+
+[1.369] existencia de falseamiento de los requisitos necesarios para la concesión de la beca o de ocultación
+
+[1.370] de las circunstancias que habrían determinado su denegación. En estos supuestos, se procederá a
+
+[1.371] denegar la beca solicitada o a modificar su concesión o acordar su reintegro según el procedimiento
+
+[1.372] previsto en esta Resolución y en la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+[1.373] denegar la beca o proceder a su revocación en el supuesto de que, por vía de muestreo, detecten la
+
+[1.374] existencia de unidades familiares que justifiquen unos ingresos que objetivamente están por debajo
+
+[1.375] de su nivel de gastos si no acreditan los medios de vida con que cuentan.
+
+[1.376] 1. De conformidad con lo dispuesto en el artículo 30.7 de la Ley 38/2003, de 17 de noviembre,
+
+[1.377] General de Subvenciones, la concesión de las becas que se convocan por esta Resolución no
+
+[1.378] requerirá otra justificación que la acreditación previa a la concesión de que el solicitante reúne los
+
+[1.379] en el solicitante de los requisitos generales establecidos en esta Resolución. Por su parte, el
+
+[1.380] por las correspondientes administraciones públicas, que el solicitante cumple los requisitos
+
+[1.381] Artículo 43. Control sobre el cumplimiento de la finalidad de la beca.
+
+[1.382] las becas convocadas por esta Resolución con indicación de su documento nacional de identidad,
+
+[1.383] superar será del cuarenta por ciento. Para el cálculo de este porcentaje se excluirán los créditos
+
+[1.384] convalidados, reconocidos o adaptados. En caso contrario, procederá el reintegro de todos los
+
+[1.385] componentes de la beca con excepción de la beca de matrícula.
+
+[1.386] Además, se entenderá que no se ha destinado la beca a la finalidad para la que fue concedida
+
+[1.387] en el plazo de dos años desde la fecha de la resolución de concesión de la beca.
+
+[1.388] beca para dicha finalidad quienes hayan incurrido en alguna o algunas de las siguientes situaciones:
+
+[1.389] las comisiones de selección de becarios correspondientes el nombre, apellidos y demás datos
+
+[1.390] identificativos que se requieran de los becarios incursos en cualquiera de las situaciones a que se
+
+[1.391] componentes, en caso de descubrirse que en su concesión concurrió ocultación o falseamiento de
+
+[1.392] datos o que existe incompatibilidad con otros beneficios de esta clase procedentes de otras personas
+
+[1.393] También serán modificadas y reintegradas en el caso de probarse que su importe no ha sido
+
+[1.394] destinado a la finalidad para la que fueron concedidas, según se expresa en el artículo anterior o que
+
+[1.395] con otros órganos de las administraciones públicas podrá hacerse extensiva a las tareas de
+
+[1.396] verificación y control relativas a las becas adjudicadas.
+
+[1.397] judiciales en su caso, para la exigencia de las demás responsabilidades que pudieran derivarse.
+
+[1.398] 1. En los casos en que, de conformidad con lo dispuesto en la Ley 38/2003, de 17 de noviembre,
+
+[1.399] a la devolución al Tesoro Público y, en su caso, a la comunidad autónoma que haya financiado
+
+[1.400] parcialmente el componente de beca de matrícula, de la cantidad indebidamente percibida en el plazo
+
+[1.401] por el interesado, se constate la procedencia de la/s beca/s adjudicada/s, los órganos a que se refiere
+
+[1.402] el párrafo anterior acordarán la conclusión del expediente con el sobreseimiento de las actuaciones.
+
+[1.403] Cuando, por el contrario, proceda el reintegro parcial o total de la/beca/s concedida/s, dichos
+
+[1.404] cinco meses, contados desde la fecha de inicio del expediente, que proceda a dictar la oportuna
+
+[1.405] resolución de reintegro del principal, así como de los intereses cuando proceda.
+
+[1.406] A la vista de la propuesta efectuada, se resolverá el expediente notificándolo al interesado y
+
+[1.407] comunicándolo a la delegación provincial del Ministerio de Hacienda correspondiente al domicilio del
+
+[1.408] mismo, de conformidad con lo dispuesto en la Orden PRE/1064/2016, de 29 de junio, por la que se
+
+[1.409] desarrolla parcialmente el Reglamento General de Recaudación, aprobado por Real Decreto
+
+[1.410] 939/2005, de 29 de julio, en lo relativo al procedimiento de recaudación de recursos no tributarios ni
+
+[1.411] aduaneros de titularidad de la Administración General del Estado a través de entidades
+
+[1.412] Tanto el acuerdo de inicio como la resolución de reintegro o sobreseimiento del expediente, en
+
+[1.413] el artículo 41 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+
+[1.414] Administraciones Públicas. A estos efectos la presentación y firma de la solicitud de beca implicará
+
+[1.415] el consentimiento de ser notificado en la forma anteriormente establecida en el número de teléfono
+
+[1.416] Las modificaciones y reintegros de becas deberán reflejarse en las correspondientes bases de
+
+[1.417] Artículo 46. Aplicación de la Ley General de Subvenciones.
+
+[1.418] A los efectos establecidos en el presente capítulo, será de aplicación lo dispuesto en los artículos
+
+[1.419] 36 y siguientes de la Ley 38/2003, de 17 de noviembre, General de Subvenciones y en el Real Decreto
+
+[1.420] 887/2006, de 21 de julio, por el que se aprueba su Reglamento.
+
+[1.421] Artículo 47. Modelo de solicitud y documentación a presentar.
+
+[1.422] Una vez cumplimentada la solicitud, deberá ser firmada por el interesado o su representante legal
+
+[1.423] en el caso de ser menor de 18 años con cualquiera de los sistemas de firma electrónica aceptados
+
+[1.424] por la sede electrónica y enviada por el procedimiento telemático establecido, quedando así
+
+[1.425] presentada a todos los efectos. No serán tenidas en cuenta aquellas solicitudes cumplimentadas por
+
+[1.426] vía telemática que no completen el proceso de presentación establecido, obteniendo el resguardo de
+
+[1.427] solicitud que deberá ser conservado por el solicitante para acreditar, en caso de que resulte
+
+[1.428] necesario, la presentación de su solicitud en el plazo y forma establecidos.
+
+[1.429] Asimismo, el solicitante o su representante legal en el caso de ser menor de 18 años y los demás
+
+[1.430] públicas la información que resulte precisa para la determinación, conocimiento y comprobación de
+
+[1.431] todos los datos de identificación, circunstancias personales, de residencia, académicas y familiares
+
+[1.432] así como de la renta y patrimonio necesarios para la resolución de la solicitud de beca.
+
+[1.433] comprobación de dichas circunstancias dará lugar a la denegación de la solicitud.
+
+[1.434] la firma electrónica tanto del interesado como de todos los miembros computables de su unidad
+
+[1.435] familiar se efectuará consignando en la solicitud, además del número, el IDESP o IXEPS del Nif o
+
+[1.436] Nie y/o la fecha de caducidad del documento de todos los firmantes, tal como se establece en la
+
+[1.437] en la redacción dada por la Ley Orgánica 3/2020, de 29 de diciembre.
+
+[1.438] conformidad con lo dispuesto en el artículo 18 de esta Resolución o quienes sean titulares o partícipes
+
+[1.439] de las actividades económicas a que se refiere el artículo 20.3 deberán cumplimentar los datos
+
+[1.440] Quienes aleguen independencia familiar y económica deberán justificar fehacientemente que
+
+[1.441] cuentan con medios económicos propios suficientes que permitan dicha independencia, así como la
+
+[1.442] titularidad o el alquiler de su domicilio habitual.
+
+[1.443] En cualquier momento del procedimiento, se podrá requerir la aportación de los documentos
+
+[1.444] originales justificativos de las circunstancias alegadas.
+
+[1.445] tutor o persona encargada de la guarda y protección del solicitante declararán bajo responsabilidad
+
+[1.446] beca o ayuda procedente de cualquier administración o entidad pública o privada, deberá comunicarlo
+
+[1.447] becarios con indicación de sus datos identificativos y de las ayudas concedidas con su importe
+
+[1.448] correspondiente de acuerdo con lo previsto en la normativa en materia de subvenciones y en la
+
+[1.449] normativa de protección de datos de carácter personal.
+
+[1.450] Artículo 48. Lugar y plazo de presentación de solicitudes.
+
+[1.451] Las solicitudes de beca deberán presentarse, en todo caso, en los plazos indicados en los
+
+[1.452] párrafos anteriores, aunque dichos plazos no coincidan con el plazo de matrícula correspondiente.
+
+[1.453] el 31 de diciembre de 2021 en caso de fallecimiento del sustentador principal de la familia, o por
+
+[1.454] jubilación forzosa del mismo que no se produzca por cumplir la edad reglamentaria ocurridos después
+
+[1.455] En estos casos, las solicitudes se presentarán directamente en las comunidades autónomas o
+
+[1.456] los órganos colegiados de selección atenderán, para la concesión o denegación de la beca solicitada
+
+[1.457] a la nueva situación económica familiar sobrevenida. Para que esta nueva situación económica
+
+[1.458] familiar pueda ser tenida en cuenta, será preciso que el solicitante exponga y acredite
+
+[1.459] documentalmente tanto la realidad de los hechos causantes de la situación como las características
+
+[1.460] solicitudes en los registros, oficinas de correos, oficinas consulares de España o en cualquiera de las
+
+[1.461] formas previstas en el artículo 16.4 de la Ley 39/2015, de 1 de octubre.
+
+[1.462] procedimiento electrónico. Antes del 1 de septiembre de 2021 las unidades de trámite iniciarán las
+
+[1.463] Este proceso se irá desarrollando progresivamente, de manera que el día inmediato siguiente a la
+
+[1.464] finalización del plazo de presentación de solicitudes resulte finalizado el proceso de obtención de los
+
+[1.465] selección de becarios con la siguiente composición:
+
+[1.466] Además, formarán parte del mismo aquellas otras personas o representantes, en número no
+
+[1.467] superior a tres, cuya presencia estimase necesaria la presidencia de la comisión.
+
+[1.468] selección de becarios con la siguiente composición:
+
+[1.469] sección de que dependan las unidades de gestión de becas; un director de centro público y
+
+[1.470] representantes de los padres, dos de centros públicos y uno de centro privado concertado,
+
+[1.471] También podrán formar parte de la comisión aquellas otras personas o representantes, en
+
+[1.472] número no superior a tres, cuya presencia estimase necesaria la presidencia de la comisión.
+
+[1.473] el órgano que cada comunidad autónoma determine y al que se incorporará el director del área de la
+
+[1.474] Asimismo, la verificación de la adecuación del otorgamiento de las becas a los criterios
+
+[1.475] establecidos en la presente Resolución podrá garantizarse mediante cualquier otro procedimiento
+
+[1.476] que se acuerde con la comunidad autónoma correspondiente.
+
+[1.477] artículo podrán estructurarse en subcomisiones o grupos de trabajo.
+
+[1.478] empezando por la de su constitución, se levantará acta, que será remitida a la Dirección General de
+
+[1.479] efecto en los artículos 15 y siguientes de la Ley 40/2015, de 1 de octubre de Régimen Jurídico del
+
+[1.480] Artículo 51. Revisión de solicitudes y subsanación de defectos.
+
+[1.481] presentadas para requerir al interesado en su caso, que subsane los eventuales defectos o acompañe
+
+[1.482] los documentos preceptivos en el plazo de diez días contados desde la recepción del requerimiento,
+
+[1.483] indicándoles que si así no lo hicieran, se les tendrá por desistidos de su petición, archivándose la
+
+[1.484] misma, previa resolución dictada a tal efecto de acuerdo con el artículo 21.1 de la citada Ley 39/2015,
+
+[1.485] por los procedimientos informáticos establecidos al efecto, propuesta de denegación de aquellas
+
+[1.486] Profesional notificará dicha propuesta de denegación a los interesados haciendo constar la causa
+
+[1.487] que la motiva e informando de las alegaciones que puedan formular.
+
+[1.488] requerir los documentos complementarios que se estimen precisos para un adecuado conocimiento
+
+[1.489] de las circunstancias peculiares de cada caso, a los efectos de garantizar la correcta inversión de los
+
+[1.490] Profesional, quincenalmente, y, en todo caso, antes del 29 de diciembre de 2021 y por cualquiera de
+
+[1.491] las vías informáticas habilitadas al efecto, un informe en el que se concrete el resultado de la
+
+[1.492] evaluación efectuada de los solicitantes que reúnan los mencionados requisitos generales.
+
+[1.493] necesarios para la comprobación de los requisitos correspondientes y se acompañarán de la
+
+[1.494] correspondiente acta del órgano de selección que contendrá el informe anteriormente señalado,
+
+[1.495] especificando sus datos identificativos, así como los criterios de valoración seguidos para efectuarlo.
+
+[1.496] los procedimientos informáticos establecidos, el cumplimiento por parte de los solicitantes de los
+
+[1.497] contrastará con la información sobre rentas y patrimonios que le faciliten las administraciones
+
+[1.498] tributarias correspondientes a los efectos de determinar, asimismo, el cumplimiento de los requisitos
+
+[1.499] económicos establecidos en la presente convocatoria.
+
+[1.500] 7. En aplicación de lo dispuesto en el artículo 82 de la Ley 39/2015, de 1 de octubre, instruido el
+
+[1.501] procedimiento e inmediatamente antes de redactar la propuesta de resolución se pondrá de
+
+[1.502] manifiesto a los interesados para que en el plazo de diez días aleguen y presenten los documentos
+
+[1.503] y justificaciones que estimen pertinentes. No obstante, se podrá prescindir del trámite de audiencia
+
+[1.504] cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni
+
+[1.505] otras alegaciones y pruebas que los aducidos por el interesado.
+
+[1.506] que hayan suscrito el convenio a que se refiere el artículo 65 de esta Resolución, comunicarán al
+
+[1.507] https://sede.educacion.gob.es, en el apartado “Mis expedientes” Asimismo, los interesados podrán
+
+[1.508] identificándose como interesados en el expediente con el NIF/NIE correspondiente. Además en la
+
+[1.509] Artículo 52. Concesión, denegación, notificaciones y publicación.
+
+[1.510] en soporte informático con los solicitantes que, por reunir todos los requisitos, tengan derecho a la
+
+[1.511] beca de matrícula, la cuantía básica, la cuantía fija ligada a la renta, la cuantía fija ligada a la
+
+[1.512] adicionales a que se refiere el artículo 2.3 con los importes adjudicados. Esta base de datos
+
+[1.513] contendrá, además, la información que sea necesaria para identificar el órgano de selección
+
+[1.514] soporte informático con las solicitudes que deban resultar denegadas con indicación de sus causas
+
+[1.515] y clasificadas por órganos de selección. A estos efectos, los órganos de selección remitirán la
+
+[1.516] información que resulte necesaria sobre las solicitudes denegadas con indicación, en todo caso, de
+
+[1.517] los datos identificativos del solicitante y de la causa de denegación.
+
+[1.518] SGBecas), como órgano instructor del procedimiento, elevará las oportunas propuestas de concesión
+
+[1.519] de las mencionadas cuantías, a los efectos de que el Director General de Planificación y Gestión
+
+[1.520] acuerdo con la Orden EFP/43/2021, de 21 de enero, dicte las correspondientes órdenes parciales y
+
+[1.521] sucesivas de concesión a medida que los órganos de selección formulen las correspondientes
+
+[1.522] Asimismo, formulará propuesta de denegación de las solicitudes que no reúnan los requisitos
+
+[1.523] establecidos de acuerdo con la información de la base de datos a que se refiere el párrafo anterior.
+
+[1.524] mencionadas cuantías a quienes resulten beneficiarios.
+
+[1.525] b) La referencia expresa al Real Decreto 1721/2007, de 21 de diciembre.
+
+[1.526] establecidos en esta convocatoria y de acuerdo con lo dispuesto en el Real Decreto 1721/2007, de
+
+[1.527] procedimiento de consulta de su renta y sus notas.
+
+[1.528] notificaciones de propuestas de denegación a quienes no cumplan los requisitos exigibles, en las que
+
+[1.529] se hará constar la causa que la motiva y los recursos que pueden interponer.
+
+[1.530] cualquiera de los medios admitidos en la normativa reguladora del procedimiento administrativo
+
+[1.531] incluidos correos electrónicos, debiendo los interesados proceder a efectuar la descarga de su
+
+[1.532] porcentaje de dicho importe que se destinará a la cuantía variable que corresponda, por una parte,
+
+[1.533] Formación Profesional distribuirá los referidos montantes entre todos los becarios que tengan
+
+[1.534] derecho a la cuantía variable conforme a lo dispuesto en esta convocatoria, con excepción de quienes
+
+[1.535] ya hayan percibido la cuantía variable mínima. Dicha distribución se efectuará mediante la aplicación
+
+[1.536] de la fórmula recogida en el artículo 10 de esta Resolución que asignará a cada uno de los becarios
+
+[1.537] el importe de cuantía variable que les corresponda.
+
+[1.538] la propuesta de concesión de las cuantías variables. El Director General de Planificación y Gestión
+
+[1.539] acuerdo con la Orden EFP/43/2021, de 21 de enero, dictará la resolución definitiva de la convocatoria
+
+[1.540] adjudicación o denegación de la cuantía variable. La concesión de la cuantía variable se notificará a
+
+[1.541] sus beneficiarios por el mismo procedimiento establecido en los apartados 3 y 5 anteriores.
+
+[1.542] entendiéndose que quedan denegadas por el mismo motivo indicado en la propuesta de denegación
+
+[1.543] las solicitudes presentadas que no aparezcan publicadas.
+
+[1.544] necesarios para el procedimiento de pago tanto de las cuantías inicialmente concedidas como de las
+
+[1.545] cuantías variables concedidas en un momento posterior.
+
+[1.546] comunidades autónomas firmantes del convenio a que se refiere el artículo 65 de esta Resolución,
+
+[1.547] que efectuarán el pago de las becas concedidas a la cuenta corriente o libreta de ahorro que el
+
+[1.548] interesado haya consignado en la solicitud y que deberá estar abierta a nombre del becario y,
+
+[1.549] tratándose de menores, también de la persona cuya representación corresponda legalmente en
+
+[1.550] podrán requerir cautelarmente el abono de dichos precios públicos a quienes no cumplan los
+
+[1.551] 3. Conforme a lo dispuesto en la disposición adicional cuarta del Real Decreto 471/2021, de 29
+
+[1.552] de junio, por el que se establecen los umbrales de renta y patrimonio familiar y las cuantías de las
+
+[1.553] igual a la del precio público fijado para la titulación correspondiente en el curso 2021-2022. En el
+
+[1.554] A estos efectos, no se considerarán precios públicos los precios especiales que se devenguen
+
+[1.555] compensará exclusivamente el importe de los precios públicos de los créditos que integren la
+
+[1.556] titulación oficial que finalmente curse el becario.
+
+[1.557] Conforme a lo dispuesto en el artículo 19.3 de la Ley 38/2003, de 17 de noviembre, General de
+
+[1.558] comunidades autónomas firmantes del convenio a que se refiere el artículo 65, por el procedimiento
+
+[1.559] componente de beca de matrícula a que se refiere la presente convocatoria.
+
+[1.560] beneficiarios de la beca, con relación nominativa de éstos y especificación del importe individual y
+
+[1.561] deberá remitirse asimismo en soporte informático para su incorporación a la base de datos de
+
+[1.562] envío de algunos expedientes de matrícula seleccionados por muestreo al objeto de comprobar los
+
+[1.563] procedimiento con la asignación de las cantidades correspondientes por este concepto mediante
+
+[1.564] 471/2021, de 29 de junio, por el que se establecen los umbrales de renta y patrimonio familiar y las
+
+[1.565] el curso 2021-2022 y se modifica parcialmente el Real Decreto 1721/2007, de 21 de diciembre, el
+
+[1.566] citado Departamento facilitará a las CCAA que lo requieran información sobre las cantidades que
+
+[1.567] Las becas convocadas por esta Resolución son, además, incompatibles con cualesquiera otros
+
+[1.568] beneficios de la misma finalidad que puedan recibirse de otras entidades o personas públicas o
+
+[1.569] privadas. En el caso de que las normas reguladoras de aquéllos proclamaran su compatibilidad con
+
+[1.570] Asimismo, no procederá el pago de las becas a que se refiere esta convocatoria en aquellos
+
+[1.571] parte de cualquier persona o entidad que no sea miembro computable de la unidad familiar de
+
+[1.572] En aquellos casos en los que se declare la incompatibilidad con las becas convocadas por una
+
+[1.573] entidad, organismo o institución, ésta estará obligada a ponerlo en conocimiento de los beneficiarios
+
+[1.574] complementarias que, con cargo a sus propios presupuestos, puedan establecer las administraciones
+
+[1.575] públicas en sus respectivos ámbitos de competencia.
+
+[1.576] componentes de beca que correspondan al solicitante, se tendrán en cuenta las circunstancias que
+
+[1.577] Estado (MUFACE) serán compatibles con las becas que se convocan por esta Resolución con
+
+[1.578] Será responsabilidad de los órganos de selección el cumplimiento de los plazos previstos en las
+
+[1.579] reglas de procedimiento establecidas en esta Resolución.
+
+[1.580] potestativamente en reposición en el plazo de un mes contado a partir del día siguiente al de su
+
+[1.581] resolución de dicho recurso administrativo podrá interponerse recurso contencioso-administrativo
+
+[1.582] ante la Sala de lo Contencioso Administrativo de la Audiencia Nacional de acuerdo con lo previsto en
+
+[1.583] los artículos 11.1 y 46 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso
+
+[1.584] Administrativa. En caso de resolución expresa del recurso potestativo de reposición, el plazo será de
+
+[1.585] dos meses y se contará desde el día siguiente a aquel en que se notifique dicha resolución expresa;
+
+[1.586] si no hubiera resolución expresa del recurso de reposición, el plazo para interponer el recurso
+
+[1.587] contencioso-administrativo será de seis meses y se contará a partir del día siguiente a aquel en que
+
+[1.588] Asimismo, contra la resolución de la convocatoria podrá interponerse directamente recurso
+
+[1.589] contencioso-administrativo ante la Sala de lo Contencioso Administrativo de la Audiencia Nacional,
+
+[1.590] de acuerdo con lo previsto en los artículos 11.1 y 46 de la Ley 29/1998, de 13 de julio, en el plazo de
+
+[1.591] consideración de registros, de conformidad con lo dispuesto en el artículo 16 de la Ley 39/2015, de
+
+[1.592] 1 de octubre. En todo caso, los registros deberán consignar en los escritos que se presenten de forma
+
+[1.593] administrativos o contenciosos, de incidencias que hayan postergado su concesión y de las revisiones
+
+[1.594] de oficio que, en su caso, procedan se abonarán con cargo a los créditos indicados en el artículo 2
+
+[1.595] pero no computarán dentro del importe global indicado en el mencionado artículo.
+
+[1.596] beneficiarios de una beca que, conforme a las disposiciones de esta convocatoria, podrá incluir las
+
+[1.597] podrán consignar los ingresos de la familia en la moneda propia del país en que se obtengan. El
+
+[1.598] cálculo de su contravalor en euros se hará aplicando el tipo oficial que dé un resultado menor y que
+
+[1.599] hubiera tenido la moneda respectiva el primer día hábil de 2021.
+
+[1.600] renta familiar se computen ingresos obtenidos en los países correspondientes, dichos ingresos se
+
+[1.601] y calcularán la renta de los solicitantes y verificarán el cumplimiento de los requisitos generales y
+
+[1.602] SGBecas con indicación de las cuantías que correspondan a cada solicitante. Asimismo, notificarán
+
+[1.603] estas tareas se llevarán a cabo por la comisión de selección de becarios que tendrá la siguiente
+
+[1.604] disfrute de beneficios de análogo carácter procedentes de la Dirección General de Migraciones.
+
+[1.605] En el caso de que la solicitud de beca sea formulada por personas que formen parte de unidades
+
+[1.606] familiares de las que las administraciones tributarias no dispongan de datos, será el propio solicitante
+
+[1.607] quien deba aportar información fehaciente sobre la situación económica de renta y patrimonio de su
+
+[1.608] unidad familiar, denegándose la beca en caso contrario.
+
+[1.609] Del mismo modo, si existiesen dificultades técnicas que impidan o dificulten la cesión de los
+
+[1.610] datos por parte de las administraciones tributarias, podrá requerirse al solicitante de la beca la
+
+[1.611] presentación del certificado resumen de la declaración anual del impuesto sobre la renta de las
+
+[1.612] personas físicas o el certificado de imputaciones, en su caso, de los miembros computables de su
+
+[1.613] Asimismo, si consultadas las bases de datos administrativas correspondientes, faltase algún dato
+
+[1.614] necesario para la resolución de la solicitud de beca podrá requerirse al solicitante la presentación de
+
+[1.615] Bajo la expresión «enseñanzas técnicas» que aparece en esta Resolución se incluyen todos los
+
+[1.616] estudios que, bajo esta misma rúbrica, recoge el Real Decreto 1954/1994, de 30 de septiembre.
+
+[1.617] acreditar estar en posesión de los requisitos exigibles en la forma que determine el correspondiente
+
+[1.618] los correspondientes órganos de selección requerirán al solicitante la aportación de la documentación
+
+[1.619] En este caso se podrán consignar los ingresos de la familia en la moneda propia del país en que
+
+[1.620] se obtengan. El cálculo de su contravalor en euros se hará aplicando el tipo oficial que dé un resultado
+
+[1.621] menor y que hubiera tenido la moneda respectiva el primer día hábil de 2021.
+
+[1.622] Artículo 62. Tramitación excepcional de solicitudes.
+
+[1.623] Las propuestas de concesión de beca correspondientes a convenios o sentencias judiciales, así
+
+[1.624] como las que, por razón de plazos, no puedan ser tratadas por el procedimiento ordinario que se
+
+[1.625] describe en esta convocatoria, serán tramitadas directamente por la Dirección General de
+
+[1.626] propuesta del órgano colegiado de selección de becarios, se aprecie por parte de la citada Dirección
+
+[1.627] General, una circunstancia médica excepcional de fuerza mayor sobrevenida que haya impedido de
+
+[1.628] procederse a la revisión de la solicitud, concediéndose en estos casos únicamente beca básica en el
+
+[1.629] Tanto las concesiones de beca que se efectúen por esta vía como las que resulten de la
+
+[1.630] resolución de reclamaciones o recursos deberán quedar incorporadas a la base de datos de becarios.
+
+[1.631] se refiere esta convocatoria sin carácter gratuito, podrán recibir la beca de matrícula, si se trata de
+
+[1.632] Profesional y en los términos establecidos en los mismos, las comunidades autónomas podrán
+
+[1.633] realizar, respecto de las becas que se convocan por la presente Resolución, con excepción de las
+
+[1.634] tramitación adjudicación y pago, así como la inspección, verificación, control y, en su caso, resolución
+
+[1.635] de los recursos administrativos que puedan interponerse.
+
+[1.636] excepción de las previstas en los artículos 2.3, 52.1 y 52.6 en lo que se refiere a la distribución del
+
+[1.637] en los artículos 53.2 y 55.1 serán llevadas a cabo, en el ámbito de su competencia, por los órganos
+
+[1.638] que determinen las comunidades autónomas firmantes del convenio.
+
+[1.639] Decreto 1014/1985, de 25 de mayo, sobre traspaso de funciones y servicios del Estado a la
+
+[1.640] Autónoma del País Vasco, según lo establecido en el Real Decreto 3195/1980, de 30 de diciembre,
+
+[1.641] por el que se completa el traspaso de Servicios del Estado a la Comunidad Autónoma del País Vasco
+
+[1.642] para la aplicación de lo dispuesto en la presente Resolución.
+
+[1.643] al de la publicación de su extracto en el «Boletín Oficial del Estado», de acuerdo con lo dispuesto en
+
+[1.644] los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre. Contra la resolución de dicho recurso
+
+[1.645] administrativo podrá interponerse recurso contencioso-administrativo ante la Sala de lo Contencioso
+
+[1.646] Administrativo de la Audiencia Nacional de acuerdo con lo previsto en los artículos 11.1 y 46 de la
+
+[1.647] Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso Administrativa. El plazo será
+
+[1.648] de dos meses y se contará desde el día siguiente a aquel en que se notifique la resolución expresa
+
+[1.649] del recurso potestativo de reposición; si no hubiera resolución expresa del recurso de reposición, el
+
+[1.650] plazo para interponer el recurso contencioso-administrativo será de seis meses y se contará a partir
+
+[1.651] del día siguiente a aquel en que deba entenderse presuntamente desestimado el recurso de
+
+[1.652] Ley 29/1998, de 13 de julio, contra esta resolución de convocatoria podrá interponerse directamente
+
+[1.653] recurso contencioso administrativo ante la Sala de lo Contencioso-Administrativo de la Audiencia
+
+[1.654] Nacional, en el plazo de dos meses a contar desde el día siguiente al de la publicación en el «Boletín
+
+[1.655] Oficial del Estado», del extracto de la resolución.
+
+[1.656] Esta resolución producirá sus efectos el día siguiente al de la publicación de su extracto en el

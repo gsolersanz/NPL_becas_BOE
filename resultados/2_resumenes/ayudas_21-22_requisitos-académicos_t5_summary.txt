@@ -1,0 +1,5 @@
+Archivo original: c:\Users\guill\OneDrive\Escritorio\MASTER EN IA\Aplicaciones del Procesamiento de Lenguaje Natural\Prueba\resultados\1_temas\ayudas_21-22_requisitos-académicos.txt
+Modelo: t5 (t5-base)
+Resumen:
+
+el requisito correspondiente a las becas que se convocan se hará efectivo con cargo al crédito . Los recursos a que se refiere es en primer lugar, se podrá proceder a una asignación de la cuanta variable . Enseanzas postobligatorias y superiores no universitarias del sistema educativo espa . .. n. -   . n . de   nn   .-

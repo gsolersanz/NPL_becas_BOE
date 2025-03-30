@@ -1,0 +1,5 @@
+Archivo original: c:\Users\guill\OneDrive\Escritorio\MASTER EN IA\Aplicaciones del Procesamiento de Lenguaje Natural\Prueba\resultados\1_temas\ayudas_21-22_requisitos-académicos.txt
+Modelo: prophetnet (microsoft/prophetnet-large-uncased-cnndm)
+Resumen:
+
+se convocan por la presente resolucion becas para estudiantes que en el curso academico. [X_SEP] ensenanzas universitarias conducentes a titulos oficiales de grado y de master. [X_SEP] espanol : espanolas de formacion profesional y de grados superior. [X_SEP] asignacion de la cuantia variable : se asignaran en primer lugar a la 4. [X_SEP] consenanza de postobligatorias y superiores, se podra proceder a una asignation. [X_SEP] un [X_SEP] contenion de beneficiario podra obtenerse aunque no se cumplan los requisitos establecidos.

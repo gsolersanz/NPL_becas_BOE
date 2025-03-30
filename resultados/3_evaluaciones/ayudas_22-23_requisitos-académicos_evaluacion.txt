@@ -1,0 +1,9 @@
+EVALUACIÓN DE RESÚMENES PARA: ayudas_22-23_requisitos-académicos
+
+MEJOR RESUMEN: bart
+
+RAZONAMIENTO:
+Error en la evaluación
+
+TEXTO DEL MEJOR RESUMEN (bart):
+Documento: ayudas_22-23. tema: requisitos_académicos.Probabilidad: 0.4212. Document: Resolución becas para estudiantes que en el curso académico 2022-2023, cursen enseñanzas postobligatorias con validez in todo el territorio nacional. Documenta: ResOLUCIÓN DE LA SECRETARÍA DE ESTADO DE EDUCACIÙN, POR LA QUE SE. Documento: Estudio del Ministerio de Educación y Formación Profesional, modificando el acceso a las citadas becas.

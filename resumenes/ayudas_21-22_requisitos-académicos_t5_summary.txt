@@ -1,0 +1,5 @@
+Archivo original: articulos_seleccionados\ayudas_21-22_requisitos-académicos.txt
+Modelo: t5 (t5-base)
+Resumen:
+
+requisitos académicos for the obtención of becas en el caso de las enseanzas postobligatorias . los recursos [1.11] financieros para dicho curso ascenderán a 2.038,13 millones de euros, de los cuales 1.550,00 [1.12] hasta cubrir la cuanta presupuestada . re versiuneversiune versiune -   .  - ­ ­­­ n­  ­-

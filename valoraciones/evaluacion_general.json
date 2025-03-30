@@ -1,0 +1,38 @@
+[
+  {
+    "archivo_original": "articulos_seleccionados\\ayudas_21-22_requisitos-académicos.txt",
+    "nombre_base": "ayudas_21-22_requisitos-académicos",
+    "mejor_modelo": "prophetnet",
+    "mejor_resumen": "estudiantes de ensenanzas postobligatorias asegurar la igualdad en el acceso a las citadas becas and ayudas al estudio sin detrimento de las. [X_SEP] los recursos [ 1. 11 ] financieros para dicho curso ascenderan a 2. 038, 13 millones de euros, de los cuales 1. 550, 00. [X_SEP] las universidades de los precios publicos por los servicios academicos correspondientes. [X_SEP] estudiante becarios y a estudi. [X_SEP] de universidad nacional de educacion a distancia con. [X_SEP] discapacidas. [X_SEP] la cuantia presupuestada, y como se venia realizando en curso anteriores.",
+    "evaluacion": {
+      "mejor_modelo": "prophetnet",
+      "puntuaciones": {
+        "bart": 5.9,
+        "led": 5.499999999999999,
+        "pegasus": 3.3000000000000003,
+        "prophetnet": 6.4,
+        "t5": 5.8
+      },
+      "razonamiento": "Resumen bart: 5.90/10\n- Cobertura: 4.60/10\n- Concisión: 8.00/10\n- Coherencia: 6.00/10\n\nResumen led: 5.50/10\n- Cobertura: 4.00/10\n- Concisión: 9.00/10\n- Coherencia: 4.00/10\n\nResumen pegasus: 3.30/10\n- Cobertura: 0.40/10\n- Concisión: 8.00/10\n- Coherencia: 3.50/10\n\nResumen prophetnet: 6.40/10\n- Cobertura: 5.60/10\n- Concisión: 8.00/10\n- Coherencia: 6.00/10\n\nResumen t5: 5.80/10\n- Cobertura: 3.80/10\n- Concisión: 9.00/10\n- Coherencia: 6.00/10\n\nCONCLUSIÓN:\nEl mejor resumen es el generado por el modelo prophetnet con una puntuación de 6.40/10 porque tiene la mejor combinación de cobertura de contenido, concisión y coherencia.",
+      "evaluacion_completa": "Resumen bart: 5.90/10\n- Cobertura: 4.60/10\n- Concisión: 8.00/10\n- Coherencia: 6.00/10\n\nResumen led: 5.50/10\n- Cobertura: 4.00/10\n- Concisión: 9.00/10\n- Coherencia: 4.00/10\n\nResumen pegasus: 3.30/10\n- Cobertura: 0.40/10\n- Concisión: 8.00/10\n- Coherencia: 3.50/10\n\nResumen prophetnet: 6.40/10\n- Cobertura: 5.60/10\n- Concisión: 8.00/10\n- Coherencia: 6.00/10\n\nResumen t5: 5.80/10\n- Cobertura: 3.80/10\n- Concisión: 9.00/10\n- Coherencia: 6.00/10\n\nCONCLUSIÓN:\nEl mejor resumen es el generado por el modelo prophetnet con una puntuación de 6.40/10 porque tiene la mejor combinación de cobertura de contenido, concisión y coherencia."
+    }
+  },
+  {
+    "archivo_original": "articulos_seleccionados\\ayudas_21-22_requisitos-económicos.txt",
+    "nombre_base": "ayudas_21-22_requisitos-económicos",
+    "mejor_modelo": "pegasus",
+    "mejor_resumen": "El Real Decreto 1721/2007, de 21 de diciembre, estableci un régimen de las becas y vigente de gestin centralizada y bsico, con cargulando, y ejecucin de las comunidades autnomas, aunque el Gobierno, asegur un compromiso firme con la [1.5] o igual de odadedad, y aprob el Real Novreto 688/2020, de 22 de julio, por el se establecan los umbrales [1.7] y se modificaba parcialmente el Real DecReto 1722/2007, que introdujo [1.8] importantes medidas de reforma en el modelo de becasadas.",
+    "evaluacion": {
+      "mejor_modelo": "pegasus",
+      "puntuaciones": {
+        "bart": 5.6000000000000005,
+        "led": 6.5,
+        "pegasus": 6.6,
+        "prophetnet": 5.300000000000001,
+        "t5": 5.9
+      },
+      "razonamiento": "Resumen bart: 5.60/10\n- Cobertura: 4.00/10\n- Concisión: 8.00/10\n- Coherencia: 6.00/10\n\nResumen led: 6.50/10\n- Cobertura: 6.60/10\n- Concisión: 8.00/10\n- Coherencia: 4.00/10\n\nResumen pegasus: 6.60/10\n- Cobertura: 5.20/10\n- Concisión: 8.00/10\n- Coherencia: 8.00/10\n\nResumen prophetnet: 5.30/10\n- Cobertura: 2.60/10\n- Concisión: 8.00/10\n- Coherencia: 8.00/10\n\nResumen t5: 5.90/10\n- Cobertura: 4.60/10\n- Concisión: 8.00/10\n- Coherencia: 6.00/10\n\nCONCLUSIÓN:\nEl mejor resumen es el generado por el modelo pegasus con una puntuación de 6.60/10 porque tiene la mejor combinación de cobertura de contenido, concisión y coherencia.",
+      "evaluacion_completa": "Resumen bart: 5.60/10\n- Cobertura: 4.00/10\n- Concisión: 8.00/10\n- Coherencia: 6.00/10\n\nResumen led: 6.50/10\n- Cobertura: 6.60/10\n- Concisión: 8.00/10\n- Coherencia: 4.00/10\n\nResumen pegasus: 6.60/10\n- Cobertura: 5.20/10\n- Concisión: 8.00/10\n- Coherencia: 8.00/10\n\nResumen prophetnet: 5.30/10\n- Cobertura: 2.60/10\n- Concisión: 8.00/10\n- Coherencia: 8.00/10\n\nResumen t5: 5.90/10\n- Cobertura: 4.60/10\n- Concisión: 8.00/10\n- Coherencia: 6.00/10\n\nCONCLUSIÓN:\nEl mejor resumen es el generado por el modelo pegasus con una puntuación de 6.60/10 porque tiene la mejor combinación de cobertura de contenido, concisión y coherencia."
+    }
+  }
+]
