@@ -1,5 +1,0 @@
-Archivo original: c:\Users\guill\OneDrive\Escritorio\MASTER EN IA\Aplicaciones del Procesamiento de Lenguaje Natural\Prueba\resultados\1_temas\ayudas_22-23_requisitos-económicos.txt
-Modelo: prophetnet (microsoft/prophetnet-large-uncased-cnndm)
-Resumen:
-
-estudiantes que cursen estudios postobligatorios el real decreto 1727 / 2007, establecio un nuevo regimen of las becas. [X_SEP] el gobierno aprobo el real. [X_SEP] decretos 688 / 2020, de 21 de julio, por el que establecian los umbrales 2021. [X_SEP] por lo demas, en esta resolucion se preve the posibilidad of celebrar convenios de colaboracion con las comunidades autonomas. [X_SEP] los becas de caracter general convocadas, con caracter basico, se modificaba parcialmente. [X_SEP] ayudas de becas destinadas.

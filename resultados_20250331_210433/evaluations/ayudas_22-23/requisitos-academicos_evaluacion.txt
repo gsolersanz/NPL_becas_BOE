@@ -1,0 +1,16 @@
+EVALUACIÓN DE RESÚMENES
+
+EL MEJOR RESUMEN ES: bart - Puntuación: 10.0/10
+
+RESULTADOS DETALLADOS:
+
+bart: 10.0/10
+- de otra segundo: 508.3%
+
+Artículo 17.
+
+t5: 8.8/10
+- endo: 8.8%
+
+TEXTO ORIGINAL (extractos):
+

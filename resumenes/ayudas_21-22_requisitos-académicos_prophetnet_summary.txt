@@ -1,5 +1,0 @@
-Archivo original: articulos_seleccionados\ayudas_21-22_requisitos-académicos.txt
-Modelo: prophetnet (microsoft/prophetnet-large-uncased-cnndm)
-Resumen:
-
-estudiantes de ensenanzas postobligatorias asegurar la igualdad en el acceso a las citadas becas and ayudas al estudio sin detrimento de las. [X_SEP] los recursos [ 1. 11 ] financieros para dicho curso ascenderan a 2. 038, 13 millones de euros, de los cuales 1. 550, 00. [X_SEP] las universidades de los precios publicos por los servicios academicos correspondientes. [X_SEP] estudiante becarios y a estudi. [X_SEP] de universidad nacional de educacion a distancia con. [X_SEP] discapacidas. [X_SEP] la cuantia presupuestada, y como se venia realizando en curso anteriores.

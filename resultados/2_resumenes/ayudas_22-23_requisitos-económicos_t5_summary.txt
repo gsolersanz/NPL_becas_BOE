@@ -1,5 +1,0 @@
-Archivo original: c:\Users\guill\OneDrive\Escritorio\MASTER EN IA\Aplicaciones del Procesamiento de Lenguaje Natural\Prueba\resultados\1_temas\ayudas_22-23_requisitos-económicos.txt
-Modelo: t5 (t5-base)
-Resumen:
-
-el Gobierno estableció un nuevo régimen de las becas y anteriormente vigente de gestión centralizada y regulando, con carácter básico, los parámetros detrimento ofrece a la cohesión social y la igualdad de oportunidades . al ao 2022 se establece una requisito de versiune .   n   . e  -  gra  e.  n. e de

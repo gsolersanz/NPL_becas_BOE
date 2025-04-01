@@ -1,5 +1,0 @@
-Archivo original: articulos_seleccionados\ayudas_21-22_requisitos-económicos.txt
-Modelo: bart (facebook/bart-large-cnn)
-Resumen:
-
-Documento: ayudas_21-22-22. tema: requisitos_económicos.probabilidad: 0.4108774. documento: Requis itos. Probabilidades: 1,550,000, 1,000,.000. Document: Real Decreto 1721/2007, de 21 de diciembre, estableció un nuevo régimen de las becas. document: RealDecreto 471/2021, de 29 de junio, por. el que se establecen los umbrales de renta y patrimonio familiar, las cuantías de. las beca básica, y la cuantía de la beca.

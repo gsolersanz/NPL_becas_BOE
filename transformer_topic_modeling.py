@@ -78,39 +78,27 @@ class BecasTransformerTopicModel:
                 self.model = None
                 self.alternate_embedding_fn = None
         
-        # Definir las categorías de temas de interés con sus palabras clave
         self.topic_categories = {
-            'documentación_y_plazos': [
-                'documentación', 'entregar', 'presentar', 'solicitud', 'plazo', 
-                'fecha límite', 'sede electrónica', 'registro', 'formulario', 
-                'fecha de presentación', 'tramitación', 'pdf', 'dni', 'certificado',
-                'acreditación', 'convocatoria', 'periodo', 'documento'
+            'requisitos_academicos': [
+                'nota media', 'calificaciones', 'créditos', 'evaluación', 
+                'curso completo', 'rendimiento', 'graduado', 'universidad', 
+                'bachillerato', 'máster', 'matrícula', 'asignaturas', 
+                'expediente', 'titulación'
             ],
-            'requisitos_económicos': [
-                'renta', 'ingresos', 'umbral económico', 'patrimonio familiar', 
-                'económico', 'deducciones', 'miembros computables', 'tributación',
-                'declaración', 'impuesto', 'IRPF', 'recursos económicos', 'familia numerosa',
-                'independencia económica', 'sustentador', 'patrimonio', 'valoración'
+            'requisitos_economicos': [
+                'renta', 'ingresos', 'patrimonio', 'umbral', 
+                'cuantía', 'deducciones', 'recursos económicos', 
+                'compensación', 'tributación', 'familia numerosa', 
+                'miembros computables', 'patrimonio familiar', 'ayudas'
             ],
-            'requisitos_académicos': [
-                'expediente académico', 'créditos', 'asignaturas', 'matriculación', 
-                'nota media', 'calificaciones', 'rendimiento académico', 'mínimo', 
-                'curso completo', 'evaluación', 'cualificación', 'estudios',
-                'titulación', 'graduado', 'bachillerato', 'universidad', 'máster'
-            ],
-            'cuantías_y_ayudas': [
-                'cuantía', 'importe', 'beca', 'ayuda', 'euros', 'variable', 'fija',
-                'compensación', 'matrícula', 'alojamiento', 'residencia', 'material',
-                'desplazamiento', 'componentes', 'cantidad', 'percibir', 'pago'
-            ],
-            'procedimiento_resolución': [
-                'procedimiento', 'resolución', 'notificación', 'recurso', 'concesión', 
-                'denegación', 'alegaciones', 'reclamación', 'subsanación', 
-                'requerimientos', 'evaluación', 'criterios', 'publicación', 'listado',
-                'comisión', 'selección', 'adjudicación', 'incompatibilidad', 'reintegro'
+            'plazos_y_documentacion': [
+                'solicitud', 'convocatoria', 'plazo', 'fecha límite', 
+                'documentación', 'inscripción', 'registro', 'presentación', 
+                'tramitación', 'sede electrónica', 'certificado', 
+                'lugar de entrega', 'requisitos', 'condiciones', 
+                'procedimiento', 'notificación'
             ]
         }
-        
         # Variables para almacenar datos
         self.raw_texts = []
         self.doc_names = []
@@ -120,55 +108,385 @@ class BecasTransformerTopicModel:
         self.paragraph_embeddings = None
         self.topic_centers = None
         self.category_embeddings = None
-    
-    def extract_by_category(self, text, category_name):
+        
+        # Variable para almacenar los artículos extraídos
+        self.articles = {}
+        for category in self.topic_categories.keys():
+            self.articles[category] = []
+
+    def extract_boe_sections(self, text):
         """
-        Extrae partes relevantes del texto relacionadas con una categoría específica.
+        Extrae secciones de un documento BOE o similar basado en patrones comunes.
+        
+        Args:
+            text: Texto del documento
+            
+        Returns:
+            Lista de diccionarios con secciones extraídas (título, contenido)
+        """
+        # Patrones comunes en documentos BOE y convocatorias
+        section_patterns = [
+            # Artículos numerados
+            r'(Art[íi]culo\s+\d+\.?\s*[^.]*\.)(.*?)(?=Art[íi]culo\s+\d+\.|\Z)',
+            
+            # Capítulos numerados
+            r'(CAP[ÍI]TULO\s+[IVXLCDM]+\.?\s*[^.]*\.)(.*?)(?=CAP[ÍI]TULO\s+[IVXLCDM]+\.|\Z)',
+            
+            # Secciones numeradas
+            r'(SECCI[ÓO]N\s+\d+\.?\s*[^.]*\.)(.*?)(?=SECCI[ÓO]N\s+\d+\.|\Z)',
+            
+            # Disposiciones
+            r'(DISPOSICI[ÓO]N.*?\.)(.*?)(?=DISPOSICI[ÓO]N|\Z)',
+            
+            # Anexos
+            r'(ANEXO.*?\.)(.*?)(?=ANEXO|\Z)',
+            
+            # Partes de artículo
+            r'(\d+\.\s+[A-Z].*?\.)(.*?)(?=\d+\.\s+[A-Z]|\Z)'
+        ]
+        
+        sections = []
+        
+        # Extraer secciones usando patrones
+        for pattern in section_patterns:
+            matches = re.finditer(pattern, text, re.DOTALL)
+            for match in matches:
+                if len(match.groups()) >= 2:
+                    title = match.group(1).strip()
+                    content = match.group(2).strip()
+                    sections.append({
+                        'title': title,
+                        'content': title + '\n' + content,
+                        'full_text': match.group(0).strip()
+                    })
+        
+        # Si no se encontraron secciones, dividir por párrafos
+        if not sections:
+            paragraphs = re.split(r'\n\s*\n', text)
+            for i, para in enumerate(paragraphs):
+                if len(para.strip()) > 100:  # Solo párrafos sustanciales
+                    sections.append({
+                        'title': f"Párrafo {i+1}",
+                        'content': para.strip(),
+                        'full_text': para.strip()
+                    })
+        
+        return sections
+    
+    def extract_articles_by_category(self, text, category_name):
+        """
+        Extrae artículos relacionados con una categoría específica.
+        
+        Args:
+            text: Texto completo del documento
+            category_name: Nombre de la categoría a buscar
+            
+        Returns:
+            Lista de artículos relevantes para la categoría
+        """
+        # Verificar si la categoría existe
+        if category_name not in self.topic_categories:
+            return []
+        
+        # Obtener palabras clave de la categoría
+        keywords = self.topic_categories[category_name]
+        
+        # Patrones para identificar artículos y secciones
+        article_patterns = [
+            r'(Art[íi]culo\s+\d+\.?\s*[^.]*\.)(.*?)(?=Art[íi]culo\s+\d+\.|\Z)',
+            r'(CAP[ÍI]TULO\s+[IVXLCDM]+\.?\s*[^.]*\.)(.*?)(?=CAP[ÍI]TULO\s+[IVXLCDM]+\.|\Z)',
+            r'(SECCI[ÓO]N\s+\d+\.?\s*[^.]*\.)(.*?)(?=SECCI[ÓO]N\s+\d+\.|\Z)'
+        ]
+        
+        # Extraer secciones del texto
+        all_sections = []
+        for pattern in article_patterns:
+            matches = re.finditer(pattern, text, re.DOTALL | re.IGNORECASE)
+            for match in matches:
+                section_text = match.group(0).strip()
+                all_sections.append(section_text)
+        
+        # Si no se encontraron artículos, dividir por párrafos
+        if not all_sections:
+            all_sections = [p.strip() for p in re.split(r'\n\s*\n', text) if p.strip()]
+        
+        # Filtrar secciones relevantes para la categoría
+        relevant_sections = []
+        for section in all_sections:
+            section_lower = section.lower()
+            # Verificar si alguna palabra clave está presente
+            if any(keyword.lower() in section_lower for keyword in keywords):
+                relevant_sections.append(section)
+        
+        return relevant_sections
+
+    def extract_category_sections(self, category_name):
+        """
+        Extrae secciones para una categoría específica de todos los documentos cargados.
+        
+        Args:
+            category_name: Nombre de la categoría a buscar
+            
+        Returns:
+            Diccionario con secciones relevantes por documento
+        """
+        category_sections = {}
+        
+        for doc_id, text in enumerate(self.raw_texts):
+            doc_name = self.doc_names[doc_id]
+            
+            # Extraer secciones para la categoría
+            sections = self.extract_articles_by_category(text, category_name)
+            
+            if sections:
+                category_sections[doc_name] = sections
+        
+        return category_sections
+
+    def save_category_sections(self, category_name, output_folder):
+        """
+        Guarda las secciones de una categoría específica en archivos de texto.
+        
+        Args:
+            category_name: Nombre de la categoría a buscar
+            output_folder: Carpeta donde guardar los resultados
+        """
+        # Crear carpeta de salida si no existe
+        os.makedirs(output_folder, exist_ok=True)
+        
+        # Extraer secciones por categoría
+        category_sections = self.extract_category_sections(category_name)
+        
+        # Guardar secciones en archivos
+        for doc_name, sections in category_sections.items():
+            # Crear nombre de archivo
+            safe_category = category_name.replace('_', '-')
+            filename = f"{doc_name}_{safe_category}_sections.txt"
+            filepath = os.path.join(output_folder, filename)
+            
+            # Guardar secciones
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.write(f"Documento: {doc_name}\n")
+                f.write(f"Categoría: {category_name}\n\n")
+                f.write("\n\n---\n\n".join(sections))
+            
+            print(f"Secciones de {category_name} guardadas en {filename}")
+
+    def extract_articles_v2(self, text, category_name):
+        """
+        Versión mejorada que extrae secciones completas relacionadas con una categoría específica.
+        Está optimizada para documentos de BOE y convocatorias de becas.
         
         Args:
             text: Texto a analizar
             category_name: Nombre de la categoría a buscar
             
         Returns:
-            Texto con las secciones relevantes
+            Lista de secciones relevantes
         """
         # Verificar si la categoría existe
         if category_name not in self.topic_categories:
-            return f"Error: La categoría '{category_name}' no existe."
-        
-        # Dividir texto en párrafos
-        paragraphs = [p.strip() for p in text.split('\n') if p.strip()]
+            return []
         
         # Obtener palabras clave de la categoría
         keywords = self.topic_categories[category_name]
         
-        # Calcular relevancia de cada párrafo
-        relevant_paragraphs = []
+        # Extraer todas las secciones
+        all_sections = self.extract_boe_sections(text)
         
-        for para in paragraphs:
-            para_lower = para.lower()
-            relevance_score = 0
+        # Filtrar secciones que contengan al menos una de las palabras clave
+        relevant_sections = []
+        for section in all_sections:
+            section_text = section['full_text'].lower()
             
             # Contar ocurrencias de palabras clave
-            for keyword in keywords:
-                if keyword.lower() in para_lower:
-                    relevance_score += 1
+            keyword_count = 0
+            matching_keywords = []
             
-            if relevance_score > 0:
-                relevant_paragraphs.append((para, relevance_score))
+            for keyword in keywords:
+                if keyword.lower() in section_text:
+                    keyword_count += 1
+                    matching_keywords.append(keyword)
+            
+            # Si tiene suficientes palabras clave o palabras específicas importantes
+            if keyword_count >= 1:
+                section['relevance'] = keyword_count
+                section['matching_keywords'] = matching_keywords
+                relevant_sections.append(section)
         
-        # Ordenar por relevancia
-        relevant_paragraphs.sort(key=lambda x: x[1], reverse=True)
+        # Ordenar por relevancia (número de palabras clave encontradas)
+        relevant_sections.sort(key=lambda x: x['relevance'], reverse=True)
         
-        # Tomar los más relevantes
-        top_paragraphs = [p[0] for p in relevant_paragraphs[:10]]
+        # Extraer el texto completo de las secciones más relevantes
+        return [section['full_text'] for section in relevant_sections]
         
-        # Si no se encontraron párrafos relevantes
-        if not top_paragraphs:
-            return f"No se encontraron secciones relevantes para la categoría '{category_name}'."
+    def extract_by_category_v2(self, text, category_name):
+        """
+        Extrae artículos completos relacionados con una categoría específica.
+        Versión mejorada optimizada para documentos BOE.
+        
+        Args:
+            text: Texto a analizar
+            category_name: Nombre de la categoría a buscar
+            
+        Returns:
+            Texto con los artículos relevantes
+        """
+        # Obtener artículos relevantes
+        articles = self.extract_articles_v2(text, category_name)
+        
+        # Si no se encontraron artículos relevantes
+        if not articles:
+            return f"No se encontraron artículos relevantes para la categoría '{category_name}'."
         
         # Unir y devolver
-        return "\n\n".join(top_paragraphs)
+        return "\n\n".join(articles)
+    
+    def process_documents(self, output_folder, use_improved_extraction=True):
+        """
+        Procesa todos los documentos cargados y extrae secciones por categoría.
+        
+        Args:
+            output_folder: Carpeta donde guardar los resultados
+            use_improved_extraction: Si es True, usa la versión mejorada para documentos BOE
+        """
+        os.makedirs(output_folder, exist_ok=True)
+        
+        # Para cada documento
+        for doc_id, text in enumerate(self.raw_texts):
+            doc_name = self.doc_names[doc_id]
+            print(f"Procesando documento: {doc_name}")
+            
+            # Para cada categoría
+            for category in self.topic_categories.keys():
+                # Extraer artículos según la versión
+                if use_improved_extraction:
+                    articles = self.extract_articles_v2(text, category)
+                else:
+                    articles = self.extract_articles(text, category)
+                
+                # Si encontramos artículos relevantes
+                if articles:
+                    # Crear nombre de archivo
+                    safe_topic = category.replace('_', '-')
+                    filename = f"{doc_name}_{safe_topic}.txt"
+                    filepath = os.path.join(output_folder, filename)
+                    
+                    # Guardar el texto
+                    with open(filepath, 'w', encoding='utf-8') as file:
+                        file.write(f"Documento: {doc_name}\n")
+                        file.write(f"Tema: {category}\n")
+                        file.write(f"Artículos encontrados: {len(articles)}\n\n")
+                        file.write("\n\n---\n\n".join(articles))
+                    
+                    print(f"  - {category}: {len(articles)} artículos guardados en {filename}")
+    
+    def extract_articles(self, text, category_name):
+        """
+        Extrae artículos completos relacionados con una categoría específica.
+        Optimizado para documentos BOE y convocatorias de becas.
+        
+        Args:
+            text: Texto a analizar
+            category_name: Nombre de la categoría a buscar
+            
+        Returns:
+            Lista de artículos relevantes
+        """
+        # Verificar si la categoría existe
+        if category_name not in self.topic_categories:
+            return []
+        
+        # Obtener palabras clave de la categoría
+        keywords = self.topic_categories[category_name]
+        
+        # Patrones mejorados para identificar artículos y secciones
+        article_patterns = [
+            # Artículos numerados (con captura de contenido)
+            r'(Art[íi]culo\s+\d+\.?\s*[^.]*\.)(.*?)(?=Art[íi]culo\s+\d+\.|\Z)',
+            
+            # Capítulos numerados
+            r'(CAP[ÍI]TULO\s+[IVXLCDM]+\.?\s*[^.]*\.)(.*?)(?=CAP[ÍI]TULO\s+[IVXLCDM]+\.|\Z)',
+            
+            # Secciones numeradas
+            r'(SECCI[ÓO]N\s+\d+\.?\s*[^.]*\.)(.*?)(?=SECCI[ÓO]N\s+\d+\.|\Z)',
+            
+            # Patrones adicionales específicos para BOE
+            r'(\d+\.\s+[A-Z].*?\.)(.*?)(?=\d+\.\s+[A-Z]|\Z)',
+            r'(DISPOSICI[ÓO]N.*?\.)(.*?)(?=DISPOSICI[ÓO]N|\Z)',
+            r'(ANEXO.*?\.)(.*?)(?=ANEXO|\Z)',
+            
+            # Patrones de respaldo (versión original)
+            r'Artículo\s+\d+\..*?(?=Artículo\s+\d+\.|$)',
+            r'CAPÍTULO\s+[IVX]+\..*?(?=CAPÍTULO\s+[IVX]+\.|$)',
+            r'TÍTULO\s+[IVX]+\..*?(?=TÍTULO\s+[IVX]+\.|$)',      
+            r'SECCIÓN\s+\d+ª\..*?(?=SECCIÓN\s+\d+ª\.|$)',
+            r'DISPOSICIÓN.*?\..*?(?=DISPOSICIÓN|$)',
+            r'Artículo\s+\d+\s*\.\s*[^.]*?\..*?(?=\n\s*\n|\nArtículo|\nCAPÍTULO|\nTÍTULO|\nSECCIÓN|\nDISPOSICIÓN|$)'
+        ]
+        
+        # Extraer artículos del texto
+        all_sections = []
+        for pattern in article_patterns:
+            if '(' in pattern and ')' in pattern:  # Patrones con grupos de captura
+                matches = re.finditer(pattern, text, re.DOTALL | re.IGNORECASE)
+                for match in matches:
+                    if len(match.groups()) >= 2:
+                        # Unir título y contenido
+                        section_text = match.group(0).strip()
+                        if section_text:
+                            all_sections.append(section_text)
+            else:  # Patrones sin grupos de captura (respaldo)
+                matches = re.finditer(pattern, text, re.DOTALL)
+                for match in matches:
+                    section_text = match.group().strip()
+                    if section_text:
+                        all_sections.append(section_text)
+        
+        # Si no se encontraron artículos, intentar dividir por párrafos separados por líneas en blanco
+        if not all_sections:
+            all_sections = [p for p in re.split(r'\n\s*\n', text) if p.strip()]
+        
+        # Filtrar artículos que contengan al menos una de las palabras clave
+        relevant_sections = []
+        for section in all_sections:
+            section_lower = section.lower()
+            for keyword in keywords:
+                if keyword.lower() in section_lower:
+                    relevant_sections.append(section)
+                    break
+        
+        return relevant_sections
+    
+    def extract_by_category(self, text, category_name):
+        """
+        Extrae artículos completos relacionados con una categoría específica.
+        
+        Args:
+            text: Texto a analizar
+            category_name: Nombre de la categoría a buscar
+            
+        Returns:
+            Texto con los artículos relevantes
+        """
+        # Obtener artículos relevantes
+        articles = self.extract_articles(text, category_name)
+        
+        # Si no se encontraron artículos relevantes
+        if not articles:
+            return f"No se encontraron artículos relevantes para la categoría '{category_name}'."
+        
+        # Unir y devolver
+        return "\n\n".join(articles)
+    
+    def extract_all_sections(self, output_folder):
+        """
+        Extrae todas las secciones de los documentos usando el método mejorado para BOE.
+        
+        Args:
+            output_folder: Carpeta donde guardar los resultados
+        """
+        self.process_documents(output_folder, use_improved_extraction=True)
     
     def _preprocess_documents(self, max_length=512, min_length=50):
         """
@@ -272,6 +590,12 @@ class BecasTransformerTopicModel:
         """
         Calcula embeddings simples basados en frecuencia de palabras (TF-IDF).
         Este método se usa como último recurso si fallan los modelos más avanzados.
+        
+        Args:
+            texts: Lista de textos a procesar
+            
+        Returns:
+            Array numpy con los embeddings
         """
         from sklearn.feature_extraction.text import TfidfVectorizer
         
@@ -335,7 +659,9 @@ class BecasTransformerTopicModel:
         
         # Normalizar para obtener porcentajes
         row_sums = self.topic_distribution.sum(axis=1, keepdims=True)
-        self.topic_distribution = self.topic_distribution / row_sums
+        self.topic_distribution = np.divide(self.topic_distribution, row_sums, 
+                                           out=np.zeros_like(self.topic_distribution), 
+                                           where=row_sums!=0)
         
         # Crear DataFrame con la distribución
         topics = [self.cluster_to_category[i] for i in range(n_clusters)]
@@ -409,7 +735,7 @@ class BecasTransformerTopicModel:
         
         # Filtrar solo los párrafos de este cluster
         relevant_indices = [i for i in doc_paragraph_indices 
-                        if self.paragraph_clusters[i] == cluster_id]
+                          if self.paragraph_clusters[i] == cluster_id]
         
         # Si no hay párrafos del cluster, buscar los más cercanos al centro del tema
         if not relevant_indices:
@@ -417,7 +743,7 @@ class BecasTransformerTopicModel:
             similarities = []
             for i in doc_paragraph_indices:
                 similarity = cosine_similarity([self.paragraph_embeddings[i]], 
-                                            [self.topic_centers[cluster_id]])[0][0]
+                                             [self.topic_centers[cluster_id]])[0][0]
                 similarities.append((i, similarity))
             
             # Ordenar por similitud
@@ -429,11 +755,11 @@ class BecasTransformerTopicModel:
         # Ordenar por posición en el documento
         relevant_indices.sort()
         
-        # Extraer y unir párrafos relevantes sin añadir los marcadores [n.m]
+        # Extraer y unir párrafos relevantes
         selected_paragraphs = [self.paragraphs[i] for i in relevant_indices]
         
         return "\n\n".join(selected_paragraphs)
-    
+        
     def visualize_topics(self, output_path=None):
         """
         Crea una visualización de la distribución de temas.
@@ -532,3 +858,77 @@ class BecasTransformerTopicModel:
             })
         
         return pd.DataFrame(results)
+
+
+    
+    def split_document_into_topic_clusters(self, input_file, output_folder=None, n_clusters=5):
+        """
+        Divide un documento PDF en 5 archivos de texto basados en clusters de topic modeling.
+        
+        Args:
+            input_file: Ruta al archivo PDF de entrada
+            output_folder: Carpeta de salida (opcional)
+            n_clusters: Número de clusters a crear
+        """
+        # Importar convertidor de PDF si es necesario
+        import sys
+        sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+        from pdf_totext import pdf_to_text
+        
+        # Determinar carpeta de salida
+        if output_folder is None:
+            output_folder = os.path.join(os.getcwd(), "resultados")
+        
+        # Crear carpeta de salida si no existe
+        os.makedirs(output_folder, exist_ok=True)
+        
+        # Convertir PDF a texto
+        base_name = os.path.splitext(os.path.basename(input_file))[0]
+        texto_output_folder = os.path.join(os.getcwd(), "corpus_txt")
+        os.makedirs(texto_output_folder, exist_ok=True)
+        texto_output_path = os.path.join(texto_output_folder, f"{base_name}.txt")
+        
+        # Convertir PDF a texto si aún no existe
+        if not os.path.exists(texto_output_path):
+            pdf_to_text(os.path.dirname(input_file), texto_output_folder)
+        
+        # Leer el archivo de texto
+        with open(texto_output_path, 'r', encoding='utf-8') as f:
+            texto = f.read()
+        
+        # Limpiar y preparar el texto (opcional: eliminar saltos de línea extra, etc.)
+        texto = '\n'.join(linea.strip() for linea in texto.split('\n') if linea.strip())
+        
+        # Reiniciar variables del modelo
+        self.raw_texts = [texto]
+        self.doc_names = [base_name]
+        
+        # Realizar análisis de documentos (topic modeling)
+        print("Realizando análisis de temas...")
+        self._compute_embeddings()
+        self._cluster_paragraphs(n_clusters)
+        
+        # Crear archivos para cada cluster
+        for cluster_id in range(n_clusters):
+            # Obtener categoría del cluster
+            category = self.cluster_to_category.get(cluster_id, f"cluster_{cluster_id}")
+            
+            # Obtener párrafos de este cluster
+            cluster_paragraph_indices = [idx for idx, cid in enumerate(self.paragraph_clusters) if cid == cluster_id]
+            
+            # Extraer texto de los párrafos del cluster
+            cluster_paragraphs = [self.paragraphs[idx] for idx in cluster_paragraph_indices]
+            
+            # Crear archivo de salida
+            safe_category = category.replace('_', '-')
+            output_filename = f"{base_name}_{safe_category}.txt"
+            output_path = os.path.join(output_folder, output_filename)
+            
+            # Guardar texto del cluster
+            with open(output_path, 'w', encoding='utf-8') as f:
+                f.write(f"Documento original: {base_name}\n")
+                f.write(f"Categoría/Cluster: {category}\n")
+                f.write(f"Número de párrafos en este cluster: {len(cluster_paragraphs)}\n\n")
+                f.write("\n\n".join(cluster_paragraphs))
+            
+            print(f"Cluster {cluster_id} guardado en {output_filename}")

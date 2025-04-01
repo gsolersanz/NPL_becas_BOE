@@ -1,5 +1,0 @@
-Archivo original: articulos_seleccionados\ayudas_21-22_requisitos-económicos.txt
-Modelo: prophetnet (microsoft/prophetnet-large-uncased-cnndm)
-Resumen:
-
-el real decreto thorne / 2007, de 21 de diciembre, establecio un nuevo regimen de las becas. [X_SEP] los millones se invertiran en la becas de caracter general convocadas por esta resolucion. [X_SEP] el gobierno aprobo el real decemberreto 688 / 2020, de 20 de julio, por el que se establecian los umbrales de renta. [X_SEP] ayudas are a form of artisanal food made from rice, beans, rice and beans. [X_SEP] they are popular among mexicans because they are [X_SEP] cheap to buy and they are cheap to sell because they. [X_SEP] are cheap. [X_SEP] to buy from a local supermarket.

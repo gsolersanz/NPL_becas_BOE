@@ -1,9 +1,0 @@
-EVALUACIÓN DE RESÚMENES PARA: ayudas_21-22_requisitos-académicos
-
-MEJOR RESUMEN: bart
-
-RAZONAMIENTO:
-Error en la evaluación
-
-TEXTO DEL MEJOR RESUMEN (bart):
-Documento: ayudas_21-22.Tema: requisitos_académicos.Probabilidad: 0.2849. Thesis: "Estudiantes que en el curso académico" (e.g., " estudios de formación medio y de grado superior") Thesis. Estranged: "Cursos de acceso y cursos de preparación para las pruebas de accedo a la formacion" Thesis, efectivo: "Se convocan por la presente Resolución becas para estudianes that en elCurso Académic"

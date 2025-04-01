@@ -1,0 +1,9 @@
+EVALUACIÓN DE RESÚMENES
+
+EL MEJOR RESUMEN ES: longformer - Puntuación: 10.0/10
+
+RESULTADOS DETALLADOS:
+
+longformer: 10.0/10
+- El una trabajo de el cazo de mayor del clusterer el 10
+

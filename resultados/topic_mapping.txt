@@ -1,5 +1,0 @@
-0|documentación_y_plazos
-1|requisitos_académicos
-2|requisitos_económicos
-3|requisitos_económicos
-4|requisitos_académicos

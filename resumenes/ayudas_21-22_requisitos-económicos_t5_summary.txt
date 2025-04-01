@@ -1,5 +1,0 @@
-Archivo original: articulos_seleccionados\ayudas_21-22_requisitos-económicos.txt
-Modelo: t5 (t5-base)
-Resumen:
-
-el Gobierno asumió un compromiso firme con la [1.5] asegurando as la cohesión social y la igualdad de oportunidades . [1.8] importantes medidas de reforma a . facilitar the acceso a las becas [1.9] componentes de las mismas. [1.1] es un ttulo de máster habilitante e incrementando la versiune .   . (  . ­­­ ­ -­­-­ ­­ ­-
