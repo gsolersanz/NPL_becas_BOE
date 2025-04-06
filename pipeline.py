@@ -254,6 +254,11 @@ def main():
     # Opciones de evaluación
     parser.add_argument('--evaluate', action='store_true', help='Evaluar y comparar resúmenes con LLM')
     
+    #seleccionar modelo para evaluación
+    parser.add_argument('--evaluation_model', type=str, default="gpt2",
+                    help="Modelo LLM para la evaluación de resúmenes (por ejemplo, 'datificate/gpt2-small-spanish')")
+
+    
     args = parser.parse_args()
     
     # Crear directorio de salida con marca de tiempo para evitar sobreescribir
@@ -435,7 +440,7 @@ def main():
                         
                         try:
                             # Comparar resúmenes usando LLM
-                            best_model, results = compare_summaries(original_file, model_summaries, output_file)
+                            best_model, results = compare_summaries(original_file, model_summaries, output_file, args.evaluation_model)
                             
                             # Imprimir resultados
                             print(f"  Mejor modelo: {best_model}")

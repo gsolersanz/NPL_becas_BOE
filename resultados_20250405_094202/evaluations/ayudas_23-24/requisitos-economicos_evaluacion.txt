@@ -1,0 +1,14 @@
+EVALUACIÓN DE RESÚMENES
+
+EL MEJOR RESUMEN ES: bart - Puntuación: 10.0/10
+
+RESULTADOS DETALLADOS:
+
+bart: 10.0/10
+- : https://web.archive.org/web/20051703102440/http://
+
+t5: 5.0/10
+- la Wikipedia de la Universidad Autónoma de Madrid (España):
+
+=======
+

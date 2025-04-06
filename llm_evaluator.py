@@ -6,7 +6,7 @@ import sys
 import torch
 from transformers import pipeline
 
-def compare_summaries(original_file, summary_files, output_file="evaluacion.txt"):
+def compare_summaries(original_file, summary_files, output_file="evaluacion.txt", evaluation_model="gpt2"):
     """
     Compara resúmenes usando un modelo LLM pequeño.
     
@@ -24,7 +24,7 @@ def compare_summaries(original_file, summary_files, output_file="evaluacion.txt"
         print("Cargando modelo pequeño...")
         model = pipeline(
             "text-generation",
-            model="gpt2",  # Modelo pequeño (~500MB)
+            model=evaluation_model,
             max_length=100,
             device=0 if device == 'cuda' else -1
         )

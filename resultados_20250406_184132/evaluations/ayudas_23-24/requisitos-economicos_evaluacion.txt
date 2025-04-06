@@ -1,0 +1,19 @@
+EVALUACIÓN DE RESÚMENES
+
+EL MEJOR RESUMEN ES: t5 - Puntuación: 10.0/10
+
+RESULTADOS DETALLADOS:
+
+bart: 1.0/10
+- de la calidad de este resumen del 1 al 10:
+
+TEXTO ORIGINAL
+
+t5: 10.0/10
+- : 90.8%
+
+
+==================================================
+
+Artículo #3
+

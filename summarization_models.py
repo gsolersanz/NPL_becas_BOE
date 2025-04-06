@@ -81,8 +81,10 @@ class ClusterSummarizer:
                 config['model'] = BartForConditionalGeneration.from_pretrained(config['name']).to(self.device)
             
             elif model_type == 't5':
-                config['tokenizer'] = T5Tokenizer.from_pretrained(config['name'])
+                from transformers import T5TokenizerFast
+                config['tokenizer'] = T5TokenizerFast.from_pretrained(config['name'], force_download=True)
                 config['model'] = T5ForConditionalGeneration.from_pretrained(config['name']).to(self.device)
+
             
             elif model_type == 'pegasus':
                 config['tokenizer'] = PegasusTokenizer.from_pretrained(config['name'])

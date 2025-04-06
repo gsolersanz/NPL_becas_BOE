@@ -1,0 +1,18 @@
+EVALUACIÓN DE RESÚMENES
+
+EL MEJOR RESUMEN ES: t5 - Puntuación: 10.0/10
+
+RESULTADOS DETALLADOS:
+
+bart: 1.0/10
+- 1: 0.7%
+
+Artículo 25.
+
+Umbrales
+
+t5: 10.0/10
+- de Estación: 180.0%
+
+Artículo 20. Estudios
+
