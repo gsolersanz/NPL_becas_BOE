@@ -1,6 +1,0 @@
-Pipeline ejecutado el: 2025-03-31 21:04:33
-Archivos de entrada: ['corpus_txt\\ayudas_22-23.txt']
-Número de temas: 3
-Temas personalizados: No especificados
-Modelos de resumen: ['bart', 't5']
-Evaluación con LLM: Sí

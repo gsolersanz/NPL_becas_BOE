@@ -1,0 +1,13 @@
+EVALUACIÓN DE RESÚMENES
+
+EL MEJOR RESUMEN ES: bart - Puntuación: 5.0/10
+
+RESULTADOS DETALLADOS:
+
+bart: 5.0/10
+- el apartado “El cambio de género”
+Se puede acceder a todos los resultados de los análisis necesarios
+
+t5: 5.0/10
+- el Capítulo "Adaptación de la Equilibrio del PERGOR"Los métodos constru
+

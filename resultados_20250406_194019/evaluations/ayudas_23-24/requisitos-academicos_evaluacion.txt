@@ -1,0 +1,19 @@
+EVALUACIÓN DE RESÚMENES
+
+EL MEJOR RESUMEN ES: bart - Puntuación: 5.0/10
+
+RESULTADOS DETALLADOS:
+
+bart: 5.0/10
+- la página:
+
+<br>
+FRANCISTA:
+
+===
+
+t5: 5.0/10
+- el apartado dedicado a la mejora de calidad de calidad:
+
+De la siguiente forma:
+
