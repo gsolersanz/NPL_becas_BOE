@@ -4,7 +4,7 @@
 
 This project implements an advanced document processing pipeline designed to extract, analyze, and summarize complex textual documents, with a specific focus on scholarship and official document analysis. The system leverages state-of-the-art natural language processing techniques to transform unstructured PDF documents into structured, insightful summaries.
 
-![System Architecture](architecture_diagram.png)
+![System Architecture](architecture.png)
 
 ## 🎯 Project Objectives
 
